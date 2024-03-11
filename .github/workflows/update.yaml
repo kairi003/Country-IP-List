@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - release
 
 jobs:
   update:
@@ -20,6 +23,9 @@ jobs:
 
       - name: fetch
         run: python3 fetch.py
+      
+      - name: check
+        run: ls -lh dst
 
       - name: update date
         run: 'sed -e "s/^\(last updated: \).*/\1$(date --iso-8601=seconds)/" -i README.md'
@@ -28,5 +34,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git commit -am "update"
+          git add dst README.md
+          git commit -m "update"
           git push
