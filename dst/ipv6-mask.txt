@@ -1043,6 +1043,9 @@ US	2602:817:a000::/ffff:ffff:fff0::
 US	2602:817:b000::/ffff:ffff:fff0::
 CA	2602:817:c000::/ffff:ffff:fff0::
 US	2602:817:d000::/ffff:ffff:f000::
+US	2602:f93e::/ffff:ffff:ff00::
+US	2602:f93f::/ffff:ffff:f000::
+CA	2602:f940::/ffff:ffff:ff00::
 US	2602:f941::/ffff:ffff:ff00::
 US	2602:f942::/ffff:ffff:ff00::
 US	2602:f943::/ffff:ffff:f000::
@@ -53314,6 +53317,7 @@ AR	2803:6602::/ffff:fffe::
 AR	2803:6604::/ffff:ffff::
 AR	2803:6610::/ffff:ffff::
 EC	2803:6620::/ffff:ffff::
+DO	2803:6650::/ffff:ffff::
 AR	2803:6660::/ffff:ffff::
 VE	2803:6680::/ffff:ffff::
 CL	2803:6690::/ffff:ffff::
@@ -62976,6 +62980,7 @@ BR	2804:8f28::/ffff:ffff::
 BR	2804:8f2c::/ffff:ffff::
 BR	2804:8f30::/ffff:ffff::
 BR	2804:8f34::/ffff:ffff::
+BR	2804:8f38::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
@@ -63294,6 +63299,7 @@ MX	2806:415::/ffff:ffff::
 MX	2806:416::/ffff:ffff::
 MX	2806:419::/ffff:ffff::
 MX	2806:41a::/ffff:ffff::
+MX	2806:41b::/ffff:ffff::
 MX	2806:1000::/ffff:ff00::
 ZA	2001:4200::/ffff:ffff::
 ZA	2001:4210::/ffff:ffff::
@@ -63631,6 +63637,7 @@ RW	2001:43fc:7000::/ffff:ffff:ffff::
 ZA	2001:43fc:8000::/ffff:ffff:ff00::
 RW	2001:43fc:9000::/ffff:ffff:ffff::
 CM	2001:43fc:a000::/ffff:ffff:ffff::
+ZA	2001:43fc:b000::/ffff:ffff:ffff::
 NG	2001:43fc:c000::/ffff:ffff:ffff::
 MW	2001:43fc:d000::/ffff:ffff:ffff::
 MG	2001:43fc:e000::/ffff:ffff:ffff::
@@ -63819,6 +63826,7 @@ SL	2c0f:3000::/ffff:ffff::
 KE	2c0f:3040::/ffff:ffff::
 ZA	2c0f:3080::/ffff:ffff::
 CM	2c0f:3100::/ffff:ffff::
+LS	2c0f:3140::/ffff:ffff::
 KE	2c0f:3180::/ffff:ffff::
 LY	2c0f:3200::/ffff:ffff::
 KE	2c0f:3280::/ffff:ffff::
@@ -63886,7 +63894,6 @@ GM	2c0f:4c00::/ffff:ffff::
 CI	2c0f:4c40::/ffff:ffff::
 ZA	2c0f:4c80::/ffff:ffff::
 ZA	2c0f:4d40::/ffff:ffff::
-KE	2c0f:4d80::/ffff:ffff::
 CM	2c0f:4e00::/ffff:ffff::
 KE	2c0f:4e40::/ffff:ffff::
 MR	2c0f:4e80::/ffff:ffff::
@@ -64195,6 +64202,7 @@ CD	2c0f:ee08::/ffff:ffff::
 MZ	2c0f:ee18::/ffff:ffff::
 ZA	2c0f:ee28::/ffff:ffff::
 ZA	2c0f:ee30::/ffff:ffff::
+GN	2c0f:ee38::/ffff:ffff::
 MA	2c0f:ee40::/ffff:ffff::
 ZA	2c0f:ee48::/ffff:ffff::
 SN	2c0f:ee50::/ffff:ffff::
