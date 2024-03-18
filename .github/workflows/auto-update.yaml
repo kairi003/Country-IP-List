@@ -1,0 +1,47 @@
+name: Auto Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - release
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: release
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Fetch
+        run: python3 fetch.py
+      
+      - name: Compress
+        run: gzip -9 -k dst/*.txt
+      
+      - name: Check
+        run: ls -lh dst
+
+      - name: Update date
+        run: 'sed -e "s/^\(last updated: \).*/\1$(date --iso-8601=seconds)/" -i README.md'
+
+      - name: Commit
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add dst README.md
+          git commit -m "auto update"
+          git push
