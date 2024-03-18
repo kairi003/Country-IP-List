@@ -1,9 +1,14 @@
-name: Auto Update
+name: auto-update
 
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - overwrite-release
+    types:
+      - completed
   push:
     branches:
       - release

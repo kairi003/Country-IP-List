@@ -1,4 +1,4 @@
-name: Overwrite Release Branch
+name: overwrite-release
 
 on:
   push:
