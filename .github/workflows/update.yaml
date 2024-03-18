@@ -24,6 +24,9 @@ jobs:
       - name: fetch
         run: python3 fetch.py
       
+      - name: compress
+        run: gzip -9 -k dst/*.txt
+      
       - name: check
         run: ls -lh dst
 

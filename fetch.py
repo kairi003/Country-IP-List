@@ -3,7 +3,6 @@
 
 import ipaddress
 import requests
-import subprocess
 from pathlib import Path
 from itertools import repeat
 
@@ -39,7 +38,11 @@ def main():
 def iter_networks(resitry_name, url):
     res = requests.get(url, stream=True)
     for line in res.iter_lines(1024):
-        line: str = line.decode().strip()
+        if isinstance(line, bytes):
+            line = line.decode('utf-8')
+        elif not isinstance(line, str):
+            continue
+        line = line.strip()
         if not line or line.startswith('#'):
             continue
         try:
