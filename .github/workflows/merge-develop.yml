@@ -14,10 +14,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
     
       - name: Merge
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+          git fetch origin develop
           git merge --strategy-option=theirs develop
           git push
