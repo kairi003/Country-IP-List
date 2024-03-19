@@ -30,6 +30,9 @@ jobs:
       
       - name: Install
         run: pip install -r requirements.txt
+      
+      - name: Clean
+        run: rm dst/*
 
       - name: Fetch
         run: python3 fetch.py
@@ -41,7 +44,7 @@ jobs:
         run: ls -lh dst
 
       - name: Update date
-        run: 'sed -e "s/^\(last updated: \).*/\1$(date --iso-8601=seconds)/" -i README.md'
+        run: 'sed -e "s/^\(Last Updated: \).*/\1$(date --iso-8601=seconds)/" -i README.md'
 
       - name: Commit
         run: |
