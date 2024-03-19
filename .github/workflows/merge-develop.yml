@@ -20,6 +20,5 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git fetch origin develop
-          git merge --strategy-option=theirs develop
+          git merge --strategy-option=theirs origin/develop -m "auto merge"
           git push
