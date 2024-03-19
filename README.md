@@ -8,7 +8,7 @@ Last Updated:
 
 
 # Usage
-For example, download the data and decompress ipv4-cidr.txt
+For example, download `ipv4-cidr.txt` and decompress.
 
 ```sh
 # download txt data
