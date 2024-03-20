@@ -31758,9 +31758,13 @@ DE	2a14:2240::/ffff:fff8::
 LT	2a14:2280::/ffff:fff8::
 DE	2a14:22c0::/ffff:fff8::
 US	2a14:2300::/ffff:fff8::
+IR	2a14:2340::/ffff:fff8::
 LT	2a14:2380::/ffff:fff8::
+IR	2a14:23c0::/ffff:fff8::
 LT	2a14:2400::/ffff:fff8::
+DE	2a14:2440::/ffff:fff8::
 LT	2a14:2480::/ffff:fff8::
+NO	2a14:24c0::/ffff:fff8::
 US	2a14:2500::/ffff:fff8::
 LT	2a14:2580::/ffff:fff8::
 ES	2a14:2600::/ffff:fff8::
