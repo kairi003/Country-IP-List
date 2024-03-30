@@ -1044,6 +1044,8 @@ US	2602:817:a000::/ffff:ffff:fff0::
 US	2602:817:b000::/ffff:ffff:fff0::
 CA	2602:817:c000::/ffff:ffff:fff0::
 US	2602:817:d000::/ffff:ffff:f000::
+US	2602:f931::/ffff:ffff:ff00::
+US	2602:f932::/ffff:ffff:ff00::
 US	2602:f933::/ffff:ffff:f000::
 US	2602:f934::/ffff:ffff:f000::
 US	2602:f935::/ffff:ffff:ff00::
@@ -63102,6 +63104,8 @@ BR	2804:8f50::/ffff:ffff::
 BR	2804:8f54::/ffff:ffff::
 BR	2804:8f58::/ffff:ffff::
 BR	2804:8f5c::/ffff:ffff::
+BR	2804:8f60::/ffff:ffff::
+BR	2804:8f64::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
