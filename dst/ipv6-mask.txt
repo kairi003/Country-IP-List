@@ -1044,6 +1044,7 @@ US	2602:817:a000::/ffff:ffff:fff0::
 US	2602:817:b000::/ffff:ffff:fff0::
 CA	2602:817:c000::/ffff:ffff:fff0::
 US	2602:817:d000::/ffff:ffff:f000::
+US	2602:f930::/ffff:ffff:ff00::
 US	2602:f931::/ffff:ffff:ff00::
 US	2602:f932::/ffff:ffff:ff00::
 US	2602:f933::/ffff:ffff:f000::
@@ -40099,6 +40100,7 @@ PH	2001:df3:a001::/ffff:ffff:ffff::
 PH	2001:df3:a002::/ffff:ffff:fffe::
 IN	2001:df3:a040::/ffff:ffff:ffff::
 ID	2001:df3:a080::/ffff:ffff:ffff::
+IN	2001:df3:a0c0::/ffff:ffff:ffff::
 ID	2001:df3:a100::/ffff:ffff:ffff::
 BD	2001:df3:a180::/ffff:ffff:ffff::
 IN	2001:df3:a200::/ffff:ffff:ffff::
@@ -44830,8 +44832,11 @@ VN	2401:8e60::/ffff:ffff::
 PH	2401:8e80::/ffff:ffff::
 IN	2401:8ea0::/ffff:ffff::
 AU	2401:8ec0::/ffff:ffff::
+IN	2401:8ee0::/ffff:ffff::
 ID	2401:8f00::/ffff:ffff::
+VN	2401:8f20::/ffff:ffff::
 CN	2401:8f40::/ffff:ffff::
+VN	2401:8f60::/ffff:ffff::
 CN	2401:8fc0::/ffff:ffff::
 AU	2401:9040::/ffff:ffff::
 AU	2401:9080::/ffff:ffff::
