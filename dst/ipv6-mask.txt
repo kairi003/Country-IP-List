@@ -1369,7 +1369,7 @@ US	2602:fa5e::/ffff:ffff:ff00::
 US	2602:fa5f::/ffff:ffff:ff00::
 US	2602:fa60::/ffff:ffff:f000::
 US	2602:fa61::/ffff:ffff:ff00::
-US	2602:fa62::/ffff:ffff:ff00::
+US	2602:fa62::/ffff:ffff:f000::
 US	2602:fa63::/ffff:ffff:f000::
 US	2602:fa64::/ffff:ffff:ff00::
 US	2602:fa65::/ffff:ffff:f000::
@@ -7990,7 +7990,7 @@ US	2620:a5:a000::/ffff:ffff:ffff::
 US	2620:a5:c000::/ffff:ffff:ffff::
 US	2620:a5:e000::/ffff:ffff:ffff::
 US	2620:a6::/ffff:ffff:ffff::
-US	2620:a6:2000::/ffff:ffff:ffff::
+US	2620:a6:2000::/ffff:ffff:fff0::
 US	2620:a6:6000::/ffff:ffff:ffff::
 US	2620:a6:a000::/ffff:ffff:ffff::
 US	2620:a6:c000::/ffff:ffff:ffff::
@@ -9671,7 +9671,7 @@ AT	2001:af8::/ffff:ffff::
 IT	2001:b00::/ffff:fff8::
 RU	2001:b08::/ffff:ffff::
 PL	2001:b10::/ffff:ffff::
-US	2001:b18::/ffff:ffff::
+PT	2001:b18::/ffff:ffff::
 LU	2001:b20::/ffff:fff8::
 AG	2001:b28::/ffff:ffff::
 RO	2001:b30::/ffff:fff8::
@@ -26215,7 +26215,7 @@ DE	2a0e:a6c0::/ffff:fff8::
 DE	2a0e:a700::/ffff:fff8::
 AE	2a0e:a740::/ffff:fff8::
 LT	2a0e:a780::/ffff:fff8::
-LV	2a0e:a7c0::/ffff:fff8::
+GB	2a0e:a7c0::/ffff:fff8::
 IE	2a0e:a800::/ffff:fff8::
 EE	2a0e:a840::/ffff:ffff::
 BG	2a0e:a880::/ffff:ffff::
@@ -28925,7 +28925,7 @@ US	2a11:4e00::/ffff:fff8::
 DE	2a11:4e40::/ffff:fff8::
 SC	2a11:4e80::/ffff:fff8::
 NL	2a11:4ec0::/ffff:fff8::
-RU	2a11:4f00::/ffff:fff8::
+HK	2a11:4f00::/ffff:fff8::
 NL	2a11:4f40::/ffff:fff8::
 GB	2a11:4f80::/ffff:fff8::
 NL	2a11:4fc0::/ffff:fff8::
@@ -29011,7 +29011,7 @@ SC	2a11:63c0::/ffff:fff8::
 PL	2a11:6400::/ffff:fff8::
 RU	2a11:6440::/ffff:fff8::
 MT	2a11:6480::/ffff:fff8::
-RU	2a11:64c0::/ffff:fff8::
+HK	2a11:64c0::/ffff:fff8::
 RU	2a11:6500::/ffff:fff8::
 RU	2a11:6540::/ffff:fff8::
 RU	2a11:6580::/ffff:fff8::
@@ -29127,7 +29127,7 @@ NL	2a11:80c0::/ffff:fff8::
 RU	2a11:8100::/ffff:fff8::
 CY	2a11:8140::/ffff:fff8::
 SC	2a11:8180::/ffff:fff8::
-RU	2a11:81c0::/ffff:fff8::
+HK	2a11:81c0::/ffff:fff8::
 TR	2a11:8200::/ffff:fff8::
 LT	2a11:8240::/ffff:fff8::
 NL	2a11:8280::/ffff:fff8::
@@ -29158,7 +29158,7 @@ SC	2a11:8880::/ffff:fff8::
 SC	2a11:88c0::/ffff:fff8::
 NL	2a11:8900::/ffff:fff8::
 RU	2a11:8940::/ffff:fff8::
-RU	2a11:8980::/ffff:fff8::
+HK	2a11:8980::/ffff:fff8::
 SC	2a11:89c0::/ffff:fff8::
 BG	2a11:8a00::/ffff:fff8::
 SC	2a11:8a40::/ffff:fff8::
@@ -29244,12 +29244,12 @@ SC	2a11:9e00::/ffff:fff8::
 RU	2a11:9e40::/ffff:fff8::
 SC	2a11:9e80::/ffff:fff8::
 PT	2a11:9ec0::/ffff:fff8::
-RU	2a11:9f00::/ffff:fff8::
+HK	2a11:9f00::/ffff:fff8::
 RU	2a11:9f40::/ffff:fff8::
 NL	2a11:9f80::/ffff:fff8::
 RU	2a11:9fc0::/ffff:fff8::
 GB	2a11:a000::/ffff:fff8::
-RU	2a11:a040::/ffff:fff8::
+HK	2a11:a040::/ffff:fff8::
 SC	2a11:a080::/ffff:fff8::
 RU	2a11:a0c0::/ffff:fff8::
 CY	2a11:a100::/ffff:fff8::
@@ -29373,7 +29373,7 @@ RU	2a11:be80::/ffff:fff8::
 NL	2a11:bec0::/ffff:fff8::
 AE	2a11:bf00::/ffff:fff8::
 NL	2a11:bf40::/ffff:fff8::
-RU	2a11:bf80::/ffff:fff8::
+HK	2a11:bf80::/ffff:fff8::
 BE	2a11:bfc0::/ffff:fff8::
 NL	2a11:c000::/ffff:fff8::
 ES	2a11:c040::/ffff:fff8::
@@ -29434,7 +29434,7 @@ IR	2a11:cdc0::/ffff:fff8::
 SC	2a11:ce00::/ffff:fff8::
 CH	2a11:ce40::/ffff:fff8::
 NL	2a11:ce80::/ffff:fff8::
-RU	2a11:cec0::/ffff:fff8::
+HK	2a11:cec0::/ffff:fff8::
 AE	2a11:cf00::/ffff:fff8::
 IT	2a11:cf40::/ffff:fff8::
 NL	2a11:cf80::/ffff:fff8::
@@ -29704,7 +29704,7 @@ RU	2a12:11c0::/ffff:fff8::
 EE	2a12:1200::/ffff:fff8::
 RU	2a12:1240::/ffff:fff8::
 RU	2a12:1280::/ffff:fff8::
-RU	2a12:12c0::/ffff:fff8::
+HK	2a12:12c0::/ffff:fff8::
 NL	2a12:1300::/ffff:fff8::
 LT	2a12:1340::/ffff:fff8::
 GB	2a12:1380::/ffff:fff8::
@@ -30402,7 +30402,7 @@ IL	2a12:c0c0::/ffff:fff8::
 NL	2a12:c100::/ffff:fff8::
 AT	2a12:c140::/ffff:fff8::
 RU	2a12:c180::/ffff:fff8::
-US	2a12:c1c0::/ffff:fff8::
+PT	2a12:c1c0::/ffff:fff8::
 GB	2a12:c200::/ffff:fff8::
 BE	2a12:c240::/ffff:fff8::
 SC	2a12:c280::/ffff:fff8::
@@ -31913,8 +31913,11 @@ DK	2a14:3dc0::/ffff:fff8::
 FR	2a14:3e00::/ffff:fff8::
 CH	2a14:3e40::/ffff:fff8::
 KZ	2a14:3e80::/ffff:fff8::
+RO	2a14:3ec0::/ffff:fff8::
 DE	2a14:3f00::/ffff:fff8::
+BE	2a14:3f40::/ffff:ffff::
 GB	2a14:3f80::/ffff:fff8::
+AT	2a14:3fc0::/ffff:fff8::
 NL	2a14:4000::/ffff:fff8::
 GB	2a14:4080::/ffff:fff8::
 TR	2a14:4100::/ffff:fff8::
@@ -33952,6 +33955,11 @@ NL	2001:67c:e60::/ffff:ffff:ffff::
 AT	2001:67c:e64::/ffff:ffff:ffff::
 RU	2001:67c:e68::/ffff:ffff:ffff::
 NL	2001:67c:e6c::/ffff:ffff:ffff::
+BE	2001:67c:e70::/ffff:ffff:ffff::
+BE	2001:67c:e74::/ffff:ffff:ffff::
+BE	2001:67c:e78::/ffff:ffff:ffff::
+BE	2001:67c:e7c::/ffff:ffff:ffff::
+DE	2001:67c:e80::/ffff:ffff:ffff::
 SE	2001:67c:1000::/ffff:ffff:fffe::
 RU	2001:67c:1008::/ffff:ffff:fffe::
 SE	2001:67c:1010::/ffff:ffff:fffe::
@@ -35868,6 +35876,7 @@ IL	2001:7f8:154::/ffff:ffff:ffff::
 DE	2001:7f8:155::/ffff:ffff:ffff::
 DE	2001:7f8:156::/ffff:ffff:ffff::
 GB	2001:7f8:157::/ffff:ffff:ffff::
+UA	2001:7f8:158::/ffff:ffff:ffff::
 PL	2001:7f9::/ffff:ffff:ffff::
 AL	2001:7f9:4::/ffff:ffff:ffff::
 AM	2001:7f9:8::/ffff:ffff:ffff::
@@ -40211,7 +40220,9 @@ AU	2001:df3:aec0::/ffff:ffff:ffff::
 ID	2001:df3:af00::/ffff:ffff:ffff::
 ID	2001:df3:af40::/ffff:ffff:ffff::
 ID	2001:df3:af80::/ffff:ffff:ffff::
+VN	2001:df3:afc0::/ffff:ffff:ffff::
 TH	2001:df3:b000::/ffff:ffff:ffff::
+ID	2001:df3:b040::/ffff:ffff:ffff::
 ID	2001:df3:b080::/ffff:ffff:ffff::
 ID	2001:df3:b180::/ffff:ffff:ffff::
 PK	2001:df3:b200::/ffff:ffff:ffff::
@@ -44953,7 +44964,9 @@ ID	2401:94a0::/ffff:ffff::
 BD	2401:94c0::/ffff:ffff::
 IN	2401:94e0::/ffff:ffff::
 PH	2401:9500::/ffff:ffff::
+NZ	2401:9520::/ffff:ffff::
 ID	2401:9540::/ffff:ffff::
+VN	2401:9560::/ffff:ffff::
 MY	2401:9580::/ffff:ffff::
 TW	2401:95c0::/ffff:ffff::
 CN	2401:9600::/ffff:ffff::
@@ -52837,6 +52850,7 @@ NI	2803:1e00::/ffff:ffff::
 EC	2803:1e10::/ffff:ffff::
 AR	2803:1e20::/ffff:ffff::
 AR	2803:1e40::/ffff:ffff::
+GT	2803:1e50::/ffff:ffff::
 AR	2803:1e60::/ffff:ffff::
 AR	2803:1e80::/ffff:ffff::
 CO	2803:1e90::/ffff:ffff::
@@ -53464,6 +53478,7 @@ AR	2803:5de0::/ffff:ffff::
 BO	2803:5e00::/ffff:ffff::
 EC	2803:5e10::/ffff:ffff::
 CL	2803:5e40::/ffff:ffff::
+DO	2803:5e50::/ffff:ffff::
 VE	2803:5e60::/ffff:ffff::
 AR	2803:5e80::/ffff:ffff::
 AR	2803:5e90::/ffff:ffff::
@@ -54088,6 +54103,7 @@ AR	2803:9e00::/ffff:ffff::
 PE	2803:9e10::/ffff:ffff::
 AR	2803:9e20::/ffff:ffff::
 PA	2803:9e40::/ffff:ffff::
+EC	2803:9e50::/ffff:ffff::
 CL	2803:9e80::/ffff:ffff::
 VE	2803:9e90::/ffff:ffff::
 AR	2803:9ea0::/ffff:ffff::
@@ -54864,6 +54880,7 @@ PY	2803:ede0::/ffff:ffff::
 AR	2803:ee00::/ffff:ffff::
 AR	2803:ee10::/ffff:ffff::
 CR	2803:ee40::/ffff:ffff::
+AR	2803:ee50::/ffff:ffff::
 CO	2803:ee60::/ffff:ffff::
 AR	2803:ee80::/ffff:ffff::
 HN	2803:ee90::/ffff:ffff::
@@ -63230,6 +63247,7 @@ BR	2804:8f8c::/ffff:ffff::
 BR	2804:8f90::/ffff:ffff::
 BR	2804:8f94::/ffff:ffff::
 BR	2804:8f98::/ffff:ffff::
+BR	2804:8f9c::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
