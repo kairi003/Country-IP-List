@@ -299,6 +299,7 @@ US	2001:504:137::/ffff:ffff:ffff::
 US	2001:504:138::/ffff:ffff:ffff::
 US	2001:504:139::/ffff:ffff:ffff::
 US	2001:504:13a::/ffff:ffff:ffff::
+US	2001:504:13b::/ffff:ffff:ffff::
 US	2001:506::/ffff:ffff:ffff::
 US	2001:506:1::/ffff:ffff:ffff::
 US	2001:506:2::/ffff:ffff:ffff::
@@ -1046,6 +1047,11 @@ US	2602:817:b000::/ffff:ffff:fff0::
 CA	2602:817:c000::/ffff:ffff:fff0::
 US	2602:817:d000::/ffff:ffff:f000::
 US	2602:818:d000::/ffff:ffff:ff00::
+US	2602:818:e000::/ffff:ffff:fff0::
+US	2602:f916::/ffff:ffff:ff00::
+CA	2602:f917::/ffff:ffff:f000::
+US	2602:f918::/ffff:ffff:ff00::
+US	2602:f919::/ffff:ffff:ff00::
 US	2602:f91a::/ffff:ffff:ff00::
 US	2602:f91b::/ffff:ffff:ff00::
 US	2602:f91c::/ffff:ffff:f000::
@@ -1858,6 +1864,7 @@ US	2602:fc76::/ffff:ffff:f000::
 US	2602:fc77::/ffff:ffff:f000::
 US	2602:fc78::/ffff:ffff:ff00::
 US	2602:fc7a::/ffff:ffff:f000::
+PR	2602:fc7b::/ffff:ffff:f000::
 US	2602:fc7c::/ffff:ffff:f000::
 US	2602:fc7d::/ffff:ffff:ff00::
 US	2602:fc7e::/ffff:ffff:ff00::
@@ -6090,6 +6097,7 @@ US	2607:ab00::/ffff:ffff::
 US	2607:ab40::/ffff:ffff::
 US	2607:abc0::/ffff:ffff::
 PR	2607:ac00::/ffff:ffff::
+US	2607:ac40::/ffff:ffff::
 US	2607:ac80::/ffff:ffff::
 US	2607:ad00::/ffff:ffff::
 US	2607:ad80::/ffff:ffff::
@@ -7935,6 +7943,7 @@ US	2620:9c:6000::/ffff:ffff:ffff::
 US	2620:9c:8000::/ffff:ffff:ffff::
 US	2620:9c:a000::/ffff:ffff:ffff::
 US	2620:9c:c000::/ffff:ffff:ffff::
+US	2620:9c:e000::/ffff:ffff:ffff::
 US	2620:9d::/ffff:ffff:ffff::
 US	2620:9d:2000::/ffff:ffff:ffff::
 US	2620:9d:4000::/ffff:ffff:ffff::
@@ -54748,6 +54757,7 @@ AR	2803:de00::/ffff:ffff::
 DO	2803:de10::/ffff:ffff::
 AR	2803:de20::/ffff:ffff::
 AR	2803:de40::/ffff:ffff::
+DO	2803:de50::/ffff:ffff::
 EC	2803:de60::/ffff:ffff::
 CO	2803:de80::/ffff:ffff::
 HN	2803:de90::/ffff:ffff::
@@ -63270,6 +63280,7 @@ BR	2804:8f9c::/ffff:ffff::
 BR	2804:8fa0::/ffff:ffff::
 BR	2804:8fa4::/ffff:ffff::
 BR	2804:8fa8::/ffff:ffff::
+BR	2804:8fac::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
@@ -64300,6 +64311,7 @@ MW	2c0f:7300::/ffff:ffff::
 KE	2c0f:7340::/ffff:ffff::
 ZA	2c0f:7380::/ffff:ffff::
 ZA	2c0f:7400::/ffff:ffff::
+KE	2c0f:7440::/ffff:ffff::
 ZA	2c0f:7500::/ffff:ffff::
 ZA	2c0f:7580::/ffff:ffff::
 CG	2c0f:7600::/ffff:ffff::
