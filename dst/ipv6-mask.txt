@@ -1049,6 +1049,11 @@ CA	2602:817:c000::/ffff:ffff:fff0::
 US	2602:817:d000::/ffff:ffff:f000::
 US	2602:818:d000::/ffff:ffff:ff00::
 US	2602:818:e000::/ffff:ffff:fff0::
+US	2602:f8fd::/ffff:ffff:ff00::
+US	2602:f8fe::/ffff:ffff:ff00::
+US	2602:f8ff::/ffff:ffff:ff00::
+US	2602:f900::/ffff:ffff:ff00::
+US	2602:f901::/ffff:ffff:ff00::
 US	2602:f902::/ffff:ffff:ff00::
 US	2602:f903::/ffff:ffff:ff00::
 US	2602:f904::/ffff:ffff:ff00::
@@ -5073,7 +5078,7 @@ US	2606:9600::/ffff:ffff::
 US	2606:9680::/ffff:ffff::
 US	2606:96c0::/ffff:ffff::
 US	2606:9700::/ffff:ffff::
-US	2606:9740::/ffff:ffff::
+US	2606:9740::/ffff:ffff:f000::
 US	2606:9780::/ffff:ffff::
 US	2606:97c0::/ffff:ffff::
 US	2606:9800::/ffff:ffff::
@@ -6145,6 +6150,7 @@ US	2607:b1c0::/ffff:ffff::
 US	2607:b200::/ffff:ffff::
 CA	2607:b240::/ffff:ffff::
 US	2607:b280::/ffff:ffff::
+US	2607:b2c0::/ffff:ffff::
 US	2607:b300::/ffff:ffff::
 US	2607:b380::/ffff:ffff::
 US	2607:b400::/ffff:ffff::
