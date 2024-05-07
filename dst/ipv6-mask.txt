@@ -11091,7 +11091,7 @@ DE	2a00:7ae0::/ffff:ffff::
 ES	2a00:7b00::/ffff:fff8::
 IE	2a00:7b40::/ffff:ffff::
 RU	2a00:7b60::/ffff:ffff::
-NL	2a00:7b80::/ffff:ffff::
+NL	2a00:7b80::/ffff:fff8::
 GB	2a00:7ba0::/ffff:ffff::
 AT	2a00:7bc0::/ffff:ffff::
 QA	2a00:7be0::/ffff:ffff::
@@ -20744,6 +20744,7 @@ NL	2a09:3580::/ffff:fff8::
 FR	2a09:35c0::/ffff:ffff::
 FR	2a09:3600::/ffff:fff8::
 RU	2a09:3640::/ffff:fff8::
+TR	2a09:3680::/ffff:fff8::
 US	2a09:36c0::/ffff:fff8::
 RU	2a09:3700::/ffff:fff8::
 QA	2a09:3740::/ffff:fff8::
@@ -35498,7 +35499,6 @@ DE	2001:67c:2dac::/ffff:ffff:ffff::
 IT	2001:67c:2db0::/ffff:ffff:ffff::
 PL	2001:67c:2db4::/ffff:ffff:ffff::
 MD	2001:67c:2db8::/ffff:ffff:ffff::
-IL	2001:67c:2dbc::/ffff:ffff:ffff::
 LI	2001:67c:2dc0::/ffff:ffff:ffff::
 DE	2001:67c:2dc4::/ffff:ffff:ffff::
 NL	2001:67c:2dc8::/ffff:ffff:ffff::
@@ -40383,10 +40383,16 @@ IN	2001:df3:bfc0::/ffff:ffff:ffff::
 ID	2001:df3:c000::/ffff:ffff:ffff::
 VN	2001:df3:c040::/ffff:ffff:ffff::
 BD	2001:df3:c080::/ffff:ffff:ffff::
+ID	2001:df3:c0c0::/ffff:ffff:ffff::
 AU	2001:df3:c100::/ffff:ffff:ffff::
+ID	2001:df3:c140::/ffff:ffff:ffff::
 HK	2001:df3:c180::/ffff:ffff:ffff::
+ID	2001:df3:c1c0::/ffff:ffff:ffff::
 TH	2001:df3:c200::/ffff:ffff:ffff::
+ID	2001:df3:c240::/ffff:ffff:ffff::
+ID	2001:df3:c2c0::/ffff:ffff:ffff::
 SG	2001:df3:c300::/ffff:ffff:ffff::
+ID	2001:df3:c340::/ffff:ffff:ffff::
 CN	2001:df3:c380::/ffff:ffff:ffff::
 AU	2001:df3:c400::/ffff:ffff:ffff::
 ID	2001:df3:c480::/ffff:ffff:ffff::
@@ -45120,10 +45126,16 @@ CN	2401:98c0::/ffff:ffff::
 VN	2401:98e0::/ffff:ffff::
 VN	2401:9920::/ffff:ffff::
 BD	2401:9960::/ffff:ffff::
+VN	2401:99a0::/ffff:ffff::
 HK	2401:99c0::/ffff:ffff::
+VN	2401:99e0::/ffff:ffff::
 CN	2401:9a00::/ffff:ffff::
+IN	2401:9a20::/ffff:ffff::
 NP	2401:9a40::/ffff:ffff::
+VN	2401:9a60::/ffff:ffff::
+VN	2401:9aa0::/ffff:ffff::
 CN	2401:9ac0::/ffff:ffff::
+VN	2401:9ae0::/ffff:ffff::
 ID	2401:9b00::/ffff:ffff::
 CN	2401:9b40::/ffff:ffff::
 CN	2401:9bc0::/ffff:ffff::
@@ -53018,6 +53030,7 @@ AR	2803:20e0::/ffff:ffff::
 BO	2803:2110::/ffff:ffff::
 CL	2803:2120::/ffff:ffff::
 AR	2803:2140::/ffff:ffff::
+HN	2803:2150::/ffff:ffff::
 AR	2803:2160::/ffff:ffff::
 CO	2803:2180::/ffff:ffff::
 AR	2803:2190::/ffff:ffff::
