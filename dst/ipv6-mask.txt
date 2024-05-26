@@ -6195,6 +6195,7 @@ US	2607:b540::/ffff:ffff::
 US	2607:b580::/ffff:ffff::
 CA	2607:b5c0::/ffff:ffff::
 US	2607:b600::/ffff:ffff::
+US	2607:b640::/ffff:ffff::
 US	2607:b700::/ffff:ffff::
 US	2607:b800::/ffff:ffff::
 US	2607:b880::/ffff:ffff::
@@ -53722,6 +53723,7 @@ GF	2803:5900::/ffff:ffff::
 AR	2803:5910::/ffff:ffff::
 AR	2803:5920::/ffff:ffff::
 PE	2803:5940::/ffff:ffff::
+AR	2803:5950::/ffff:ffff::
 CO	2803:5960::/ffff:ffff::
 AR	2803:5980::/ffff:ffff::
 VE	2803:5990::/ffff:ffff::
@@ -54985,6 +54987,7 @@ CR	2803:d900::/ffff:ffff::
 DO	2803:d910::/ffff:ffff::
 AR	2803:d920::/ffff:ffff::
 VE	2803:d940::/ffff:ffff::
+GT	2803:d950::/ffff:ffff::
 AR	2803:d960::/ffff:ffff::
 DO	2803:d990::/ffff:ffff::
 CL	2803:d9c0::/ffff:ffff::
@@ -59049,6 +59052,7 @@ BR	2804:43a8::/ffff:ffff::
 BR	2804:43ac::/ffff:ffff::
 BR	2804:43b0::/ffff:ffff::
 BR	2804:43b4::/ffff:ffff::
+BR	2804:43b8::/ffff:ffff::
 BR	2804:43bc::/ffff:ffff::
 BR	2804:43c0::/ffff:ffff::
 BR	2804:43c4::/ffff:ffff::
