@@ -23097,6 +23097,7 @@ HR	2a0b:7940::/ffff:fff8::
 FI	2a0b:7980::/ffff:fff8::
 DE	2a0b:79c0::/ffff:fff8::
 DE	2a0b:7a00::/ffff:fff8::
+GB	2a0b:7a40::/ffff:fff8::
 RU	2a0b:7a80::/ffff:fff8::
 ES	2a0b:7ac0::/ffff:ffff::
 SE	2a0b:7b00::/ffff:fff8::
@@ -29862,7 +29863,7 @@ NL	2a12:1e40::/ffff:fff8::
 RU	2a12:1e80::/ffff:fff8::
 SC	2a12:1ec0::/ffff:fff8::
 SC	2a12:1f00::/ffff:fff8::
-RU	2a12:1f40::/ffff:fff8::
+SC	2a12:1f40::/ffff:fff8::
 SC	2a12:1f80::/ffff:fff8::
 EE	2a12:1fc0::/ffff:fff8::
 NL	2a12:2000::/ffff:fff8::
@@ -32053,7 +32054,6 @@ BG	2a14:44c0::/ffff:fff8::
 ES	2a14:4500::/ffff:fff8::
 NO	2a14:4540::/ffff:ffff::
 ES	2a14:4580::/ffff:fff8::
-UA	2a14:45c0::/ffff:fff8::
 UA	2a14:4600::/ffff:fff8::
 DK	2a14:4640::/ffff:fff8::
 AL	2a14:4680::/ffff:fff8::
@@ -32137,6 +32137,7 @@ NL	2a14:59c0::/ffff:fff8::
 US	2a14:5a00::/ffff:fff8::
 RU	2a14:5a40::/ffff:fff8::
 TR	2a14:5a80::/ffff:fff8::
+IR	2a14:5ac0::/ffff:fff8::
 DE	2a14:5b00::/ffff:fff8::
 RU	2a14:5b80::/ffff:ffff::
 SC	2a14:5c00::/ffff:ffff::
@@ -34954,7 +34955,6 @@ UA	2001:67c:2380::/ffff:ffff:ffff::
 SE	2001:67c:2384::/ffff:ffff:ffff::
 DE	2001:67c:2388::/ffff:ffff:ffff::
 AT	2001:67c:238c::/ffff:ffff:ffff::
-NL	2001:67c:2390::/ffff:ffff:ffff::
 DE	2001:67c:2394::/ffff:ffff:ffff::
 AT	2001:67c:2398::/ffff:ffff:ffff::
 FR	2001:67c:239c::/ffff:ffff:ffff::
@@ -40542,8 +40542,11 @@ ID	2001:df3:d700::/ffff:ffff:ffff::
 TH	2001:df3:d740::/ffff:ffff:ffff::
 MY	2001:df3:d780::/ffff:ffff:ffff::
 IN	2001:df3:d7c0::/ffff:ffff:ffff::
+PG	2001:df3:d840::/ffff:ffff:ffff::
 CN	2001:df3:d880::/ffff:ffff:ffff::
+VN	2001:df3:d8c0::/ffff:ffff:ffff::
 ID	2001:df3:d900::/ffff:ffff:ffff::
+ID	2001:df3:d940::/ffff:ffff:ffff::
 IN	2001:df3:d980::/ffff:ffff:ffff::
 US	2001:df3:da00::/ffff:ffff:ffff::
 NP	2001:df3:da80::/ffff:ffff:ffff::
@@ -43056,7 +43059,6 @@ IN	2400:6220::/ffff:ffff::
 ID	2400:6240::/ffff:ffff::
 BD	2400:6260::/ffff:ffff::
 TH	2400:6280::/ffff:ffff::
-BD	2400:62a0::/ffff:ffff::
 MM	2400:62c0::/ffff:ffff::
 TW	2400:62e0::/ffff:ffff::
 IN	2400:6300::/ffff:ffff::
