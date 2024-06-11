@@ -1053,6 +1053,7 @@ US	2602:819:1000::/ffff:ffff:ff00::
 US	2602:819:2000::/ffff:ffff:fff0::
 US	2602:819:3000::/ffff:ffff:ff00::
 US	2602:819:4000::/ffff:ffff:fff0::
+US	2602:f8b2::/ffff:ffff:ff00::
 US	2602:f8b3::/ffff:ffff:ff00::
 US	2602:f8b4::/ffff:ffff:ff00::
 US	2602:f8b5::/ffff:ffff:ff00::
@@ -26680,6 +26681,7 @@ SC	2a0e:f200::/ffff:fff8::
 PL	2a0e:f240::/ffff:fff8::
 RU	2a0e:f280::/ffff:fff8::
 AT	2a0e:f2c0::/ffff:fff8::
+PL	2a0e:f300::/ffff:fff8::
 GB	2a0e:f340::/ffff:fff8::
 SG	2a0e:f380::/ffff:fff8::
 IR	2a0e:f3c0::/ffff:fff8::
@@ -32222,10 +32224,15 @@ GB	2a14:5fc0::/ffff:fff8::
 RU	2a14:6000::/ffff:fff8::
 GB	2a14:6040::/ffff:fff8::
 CH	2a14:6080::/ffff:fff8::
+LT	2a14:60c0::/ffff:fff8::
 IR	2a14:6100::/ffff:fff8::
+IR	2a14:6140::/ffff:fff8::
 BE	2a14:6180::/ffff:fff8::
+LT	2a14:61c0::/ffff:fff8::
 UA	2a14:6200::/ffff:fff8::
+LT	2a14:6240::/ffff:fff8::
 DE	2a14:6280::/ffff:fff8::
+LT	2a14:62c0::/ffff:fff8::
 UA	2a14:6300::/ffff:fff8::
 DE	2a14:6380::/ffff:fff8::
 RU	2a14:6400::/ffff:fff8::
@@ -32693,7 +32700,6 @@ SE	2001:678:640::/ffff:ffff:ffff::
 SE	2001:678:644::/ffff:ffff:ffff::
 TJ	2001:678:650::/ffff:ffff:ffff::
 DE	2001:678:654::/ffff:ffff:ffff::
-DE	2001:678:658::/ffff:ffff:ffff::
 RU	2001:678:65c::/ffff:ffff:ffff::
 DE	2001:678:660::/ffff:ffff:ffff::
 PL	2001:678:664::/ffff:ffff:ffff::
@@ -40676,11 +40682,17 @@ ID	2001:df3:e5c0::/ffff:ffff:ffff::
 ID	2001:df3:e600::/ffff:ffff:ffff::
 VN	2001:df3:e640::/ffff:ffff:ffff::
 BD	2001:df3:e680::/ffff:ffff:ffff::
+VN	2001:df3:e6c0::/ffff:ffff:ffff::
 ID	2001:df3:e700::/ffff:ffff:ffff::
+IN	2001:df3:e740::/ffff:ffff:ffff::
 AU	2001:df3:e780::/ffff:ffff:ffff::
+PH	2001:df3:e7c0::/ffff:ffff:ffff::
 IN	2001:df3:e800::/ffff:ffff:ffff::
+IN	2001:df3:e840::/ffff:ffff:ffff::
 ID	2001:df3:e880::/ffff:ffff:ffff::
+VN	2001:df3:e8c0::/ffff:ffff:ffff::
 ID	2001:df3:e900::/ffff:ffff:ffff::
+VN	2001:df3:e940::/ffff:ffff:ffff::
 ID	2001:df3:e980::/ffff:ffff:ffff::
 MV	2001:df3:ea00::/ffff:ffff:ffff::
 BD	2001:df3:ea80::/ffff:ffff:ffff::
@@ -45429,6 +45441,7 @@ IN	2401:a520::/ffff:ffff::
 CN	2401:a540::/ffff:ffff::
 US	2401:a560::/ffff:ffff::
 TH	2401:a580::/ffff:ffff::
+BD	2401:a5a0::/ffff:ffff::
 CN	2401:a5c0::/ffff:ffff::
 IN	2401:a600::/ffff:ffff::
 CN	2401:a640::/ffff:ffff::
