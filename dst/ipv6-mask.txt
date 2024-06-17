@@ -40750,7 +40750,9 @@ MY	2001:df3:ec80::/ffff:ffff:ffff::
 IN	2001:df3:ecc0::/ffff:ffff:ffff::
 US	2001:df3:ed40::/ffff:ffff:ffff::
 CN	2001:df3:ed80::/ffff:ffff:ffff::
+VN	2001:df3:edc0::/ffff:ffff:ffff::
 TH	2001:df3:ee00::/ffff:ffff:ffff::
+VN	2001:df3:ee40::/ffff:ffff:ffff::
 AU	2001:df3:ee80::/ffff:ffff:ffff::
 AU	2001:df3:ef00::/ffff:ffff:ffff::
 CN	2001:df3:ef80::/ffff:ffff:ffff::
