@@ -18297,6 +18297,7 @@ RU	2a05:a400::/ffff:fff8::
 IT	2a05:a440::/ffff:fff8::
 FR	2a05:a480::/ffff:fff8::
 ES	2a05:a4c0::/ffff:fff8::
+PL	2a05:a500::/ffff:fff8::
 IT	2a05:a540::/ffff:fff8::
 IT	2a05:a580::/ffff:fff8::
 GR	2a05:a5c0::/ffff:fff8::
@@ -34283,6 +34284,8 @@ NL	2001:67c:eb0::/ffff:ffff:ffff::
 RO	2001:67c:eb4::/ffff:ffff:ffff::
 NO	2001:67c:eb8::/ffff:ffff:ffff::
 CN	2001:67c:ebc::/ffff:ffff:ffff::
+DE	2001:67c:ec0::/ffff:ffff:ffff::
+EE	2001:67c:ec4::/ffff:ffff:ffff::
 SE	2001:67c:1000::/ffff:ffff:fffe::
 RU	2001:67c:1008::/ffff:ffff:fffe::
 SE	2001:67c:1010::/ffff:ffff:fffe::
@@ -40057,7 +40060,6 @@ IN	2001:df3:3000::/ffff:ffff:ffff::
 HK	2001:df3:3040::/ffff:ffff:ffff::
 BD	2001:df3:30c0::/ffff:ffff:ffff::
 AU	2001:df3:3100::/ffff:ffff:ffff::
-BD	2001:df3:3140::/ffff:ffff:ffff::
 BD	2001:df3:3180::/ffff:ffff:ffff::
 AF	2001:df3:31c0::/ffff:ffff:ffff::
 IN	2001:df3:3200::/ffff:ffff:ffff::
@@ -40796,8 +40798,11 @@ ID	2001:df3:f340::/ffff:ffff:ffff::
 NC	2001:df3:f380::/ffff:ffff:ffff::
 ID	2001:df3:f3c0::/ffff:ffff:ffff::
 IN	2001:df3:f400::/ffff:ffff:ffff::
+ID	2001:df3:f440::/ffff:ffff:ffff::
 ID	2001:df3:f480::/ffff:ffff:ffff::
+IN	2001:df3:f4c0::/ffff:ffff:ffff::
 IN	2001:df3:f500::/ffff:ffff:ffff::
+IN	2001:df3:f540::/ffff:ffff:ffff::
 VN	2001:df3:f580::/ffff:ffff:ffff::
 VN	2001:df3:f600::/ffff:ffff:ffff::
 ID	2001:df3:f680::/ffff:ffff:ffff::
@@ -45550,6 +45555,7 @@ IN	2401:a880::/ffff:ffff::
 IN	2401:a8a0::/ffff:ffff::
 AU	2401:a8c0::/ffff:ffff::
 HK	2401:a8e0::/ffff:ffff::
+JP	2401:a920::/ffff:ffff::
 CN	2401:a940::/ffff:ffff::
 CN	2401:a980::/ffff:ffff::
 ID	2401:a9c0::/ffff:ffff::
@@ -61460,7 +61466,6 @@ BR	2804:6904::/ffff:ffff::
 BR	2804:6908::/ffff:ffff::
 BR	2804:690c::/ffff:ffff::
 BR	2804:6910::/ffff:ffff::
-BR	2804:6914::/ffff:ffff::
 BR	2804:6918::/ffff:ffff::
 BR	2804:691c::/ffff:ffff::
 BR	2804:6920::/ffff:ffff::
@@ -63782,6 +63787,8 @@ BR	2804:9028::/ffff:ffff::
 BR	2804:902c::/ffff:ffff::
 BR	2804:9030::/ffff:ffff::
 BR	2804:9034::/ffff:ffff::
+BR	2804:9038::/ffff:ffff::
+BR	2804:903c::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
