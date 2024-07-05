@@ -1064,6 +1064,7 @@ US	2602:819:8000::/ffff:ffff:fff0::
 US	2602:819:9000::/ffff:ffff:ff00::
 US	2602:819:a000::/ffff:ffff:ff00::
 US	2602:819:b000::/ffff:ffff:fff0::
+US	2602:f87d::/ffff:ffff:f000::
 US	2602:f87e::/ffff:ffff:ff00::
 US	2602:f87f::/ffff:ffff:f000::
 US	2602:f880::/ffff:ffff:ff00::
@@ -6338,6 +6339,7 @@ CA	2607:c0c0::/ffff:ffff::
 US	2607:c100::/ffff:ffff::
 US	2607:c140::/ffff:ffff::
 CA	2607:c180::/ffff:ffff::
+US	2607:c1c0::/ffff:ffff::
 US	2607:c200::/ffff:ffff::
 CA	2607:c280::/ffff:ffff::
 US	2607:c300::/ffff:ffff::
@@ -32401,10 +32403,15 @@ GB	2a14:75c0::/ffff:fff8::
 RU	2a14:7600::/ffff:fff8::
 GB	2a14:7640::/ffff:fff8::
 DE	2a14:7680::/ffff:fff8::
+ES	2a14:76c0::/ffff:fff8::
 MD	2a14:7700::/ffff:ffff::
+SE	2a14:7740::/ffff:fff8::
 IR	2a14:7780::/ffff:fff8::
+NL	2a14:77c0::/ffff:ffff::
 DE	2a14:7800::/ffff:ffff::
+NO	2a14:7840::/ffff:fff8::
 CZ	2a14:7880::/ffff:ffff::
+US	2a14:78c0::/ffff:fff8::
 LB	2a14:7900::/ffff:fff8::
 GB	2a14:7980::/ffff:fff8::
 RU	2a14:7a00::/ffff:fff8::
@@ -40942,6 +40949,7 @@ VN	2001:df4:6c0::/ffff:ffff:ffff::
 VN	2001:df4:700::/ffff:ffff:ffff::
 IN	2001:df4:740::/ffff:ffff:ffff::
 ID	2001:df4:780::/ffff:ffff:ffff::
+ID	2001:df4:7c0::/ffff:ffff:ffff::
 AU	2001:df4:800::/ffff:ffff:ffff::
 CN	2001:df4:880::/ffff:ffff:ffff::
 ID	2001:df4:900::/ffff:ffff:ffff::
@@ -45702,11 +45710,17 @@ MY	2401:ade0::/ffff:ffff::
 ID	2401:ae00::/ffff:ffff::
 IN	2401:ae20::/ffff:ffff::
 KR	2401:ae40::/ffff:ffff::
+WS	2401:ae60::/ffff:ffff::
 AU	2401:ae80::/ffff:ffff::
+IN	2401:aea0::/ffff:ffff::
 BD	2401:aec0::/ffff:ffff::
+TW	2401:aee0::/ffff:ffff::
 NC	2401:af00::/ffff:ffff::
+TW	2401:af20::/ffff:ffff::
 SG	2401:af40::/ffff:ffff::
+IN	2401:af60::/ffff:ffff::
 JP	2401:af80::/ffff:ffff::
+CN	2401:afa0::/ffff:ffff::
 IN	2401:afc0::/ffff:ffff::
 MY	2401:b000::/ffff:ffff::
 CN	2401:b040::/ffff:ffff::
@@ -64817,6 +64831,7 @@ KE	2c0f:3a00::/ffff:ffff::
 ZA	2c0f:3a40::/ffff:ffff::
 ZA	2c0f:3a80::/ffff:ffff::
 KE	2c0f:3b00::/ffff:ffff::
+KE	2c0f:3b40::/ffff:ffff::
 NG	2c0f:3b80::/ffff:ffff::
 ZA	2c0f:3c80::/ffff:ffff::
 UG	2c0f:3d00::/ffff:ffff::
