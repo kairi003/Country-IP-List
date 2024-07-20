@@ -302,6 +302,7 @@ US	2001:504:13a::/ffff:ffff:ffff::
 US	2001:504:13b::/ffff:ffff:ffff::
 AG	2001:504:13c::/ffff:ffff:ffff::
 US	2001:504:13d::/ffff:ffff:ffff::
+US	2001:504:13e::/ffff:ffff:ffff::
 US	2001:506::/ffff:ffff:ffff::
 US	2001:506:1::/ffff:ffff:ffff::
 US	2001:506:2::/ffff:ffff:ffff::
@@ -28567,7 +28568,6 @@ ES	2a10:c280::/ffff:ffff::
 NL	2a10:c2c0::/ffff:fff8::
 RO	2a10:c300::/ffff:fff8::
 RU	2a10:c340::/ffff:fff8::
-NL	2a10:c380::/ffff:fff8::
 SE	2a10:c3c0::/ffff:fff8::
 LT	2a10:c400::/ffff:fff8::
 TR	2a10:c440::/ffff:fff8::
@@ -32348,7 +32348,9 @@ DE	2a14:7b40::/ffff:fff8::
 SC	2a14:7b80::/ffff:fff8::
 TR	2a14:7bc0::/ffff:fff8::
 DE	2a14:7c00::/ffff:fff8::
+KZ	2a14:7c40::/ffff:ffff::
 IR	2a14:7c80::/ffff:fff8::
+ES	2a14:7cc0::/ffff:fff8::
 AT	2a14:7d00::/ffff:fff8::
 IR	2a14:7d80::/ffff:fff8::
 UA	2a14:7e00::/ffff:fff8::
@@ -45720,6 +45722,7 @@ NZ	2401:b460::/ffff:ffff::
 CN	2401:b480::/ffff:ffff::
 TW	2401:b4a0::/ffff:ffff::
 CN	2401:b4c0::/ffff:ffff::
+CN	2401:b4e0::/ffff:ffff::
 AU	2401:b500::/ffff:ffff::
 CN	2401:b540::/ffff:ffff::
 CN	2401:b580::/ffff:ffff::
