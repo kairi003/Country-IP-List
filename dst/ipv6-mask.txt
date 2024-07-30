@@ -10133,6 +10133,7 @@ SE	2001:2800::/ffff:f800::
 DE	2001:3000::/ffff:ffff::
 GB	2001:3200::/ffff:fff8::
 AZ	2001:3400::/ffff:fff8::
+SK	2001:3600::/ffff:fff8::
 AL	2001:3800::/ffff:fff8::
 AZ	2001:3c00::/ffff:fff8::
 FR	2001:4000::/ffff:ffff::
@@ -13429,7 +13430,6 @@ FR	2a01:dffc::/ffff:fffe::
 FR	2a01:dffe::/ffff:ffff::
 FR	2a01:dfff::/ffff:ffff::
 CH	2a01:e000::/ffff:fff8::
-FR	2a01:e400::/ffff:fff8::
 IT	2a01:e800::/ffff:fff8::
 IT	2a01:ec00::/ffff:fff8::
 AZ	2a01:f000::/ffff:fff8::
