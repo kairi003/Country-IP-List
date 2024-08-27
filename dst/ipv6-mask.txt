@@ -1084,7 +1084,7 @@ US	2602:f837::/ffff:ffff:ff00::
 US	2602:f838::/ffff:ffff:ff00::
 US	2602:f839::/ffff:ffff:ff00::
 US	2602:f83a::/ffff:ffff:ff00::
-US	2602:f83b::/ffff:ffff:ff00::
+US	2602:f83b::/ffff:ffff::
 US	2602:f83c::/ffff:ffff:ff00::
 US	2602:f83d::/ffff:ffff:ff00::
 US	2602:f83e::/ffff:ffff:ff00::
@@ -12882,7 +12882,6 @@ ES	2a01:68a0::/ffff:ffff::
 KZ	2a01:68c0::/ffff:ffff::
 DK	2a01:68e0::/ffff:ffff::
 ES	2a01:6900::/ffff:ffff::
-US	2a01:6920::/ffff:ffff::
 FR	2a01:6940::/ffff:ffff::
 FR	2a01:6960::/ffff:ffff::
 CH	2a01:6980::/ffff:ffff::
@@ -13543,10 +13542,15 @@ FR	2a01:ea80::/ffff:fff8::
 NL	2a01:eb00::/ffff:ffff::
 GB	2a01:eb80::/ffff:fff8::
 IT	2a01:ec00::/ffff:fff8::
+SA	2a01:ec80::/ffff:fff8::
 IR	2a01:ed00::/ffff:fff8::
+TR	2a01:ed80::/ffff:fff8::
 IT	2a01:ee00::/ffff:fff8::
+GB	2a01:ee80::/ffff:ffff::
 NL	2a01:ef00::/ffff:ffff::
+AL	2a01:ef80::/ffff:fff8::
 AZ	2a01:f000::/ffff:fff8::
+DK	2a01:f080::/ffff:fff8::
 TR	2a01:f100::/ffff:fff8::
 IR	2a01:f200::/ffff:fff8::
 UA	2a01:f300::/ffff:ffff::
@@ -35477,7 +35481,6 @@ SE	2001:67c:26b0::/ffff:ffff:ffff::
 GB	2001:67c:26b4::/ffff:ffff:ffff::
 GB	2001:67c:26b8::/ffff:ffff:ffff::
 RU	2001:67c:26bc::/ffff:ffff:ffff::
-NL	2001:67c:26c0::/ffff:ffff:fffc::
 SE	2001:67c:26d0::/ffff:ffff:ffff::
 SK	2001:67c:26d4::/ffff:ffff:ffff::
 FR	2001:67c:26d8::/ffff:ffff:ffff::
@@ -41204,8 +41207,11 @@ AU	2001:df4:32c0::/ffff:ffff:ffff::
 BD	2001:df4:3340::/ffff:ffff:ffff::
 BD	2001:df4:3380::/ffff:ffff:ffff::
 BD	2001:df4:33c0::/ffff:ffff:ffff::
+BT	2001:df4:3440::/ffff:ffff:ffff::
 DK	2001:df4:3480::/ffff:ffff:ffff::
+MM	2001:df4:34c0::/ffff:ffff:ffff::
 IN	2001:df4:3500::/ffff:ffff:ffff::
+BD	2001:df4:3540::/ffff:ffff:ffff::
 SG	2001:df4:3580::/ffff:ffff:ffff::
 AU	2001:df4:3600::/ffff:ffff:ffff::
 ID	2001:df4:3680::/ffff:ffff:ffff::
@@ -45989,7 +45995,9 @@ SG	2401:be20::/ffff:ffff::
 ID	2401:be40::/ffff:ffff::
 PK	2401:be60::/ffff:ffff::
 ID	2401:be80::/ffff:ffff::
+NZ	2401:bea0::/ffff:ffff::
 HK	2401:bec0::/ffff:ffff::
+BD	2401:bee0::/ffff:ffff::
 JP	2401:bf00::/ffff:ffff::
 ID	2401:bfc0::/ffff:ffff::
 BD	2401:c000::/ffff:ffff::
