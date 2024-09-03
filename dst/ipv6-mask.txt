@@ -11946,7 +11946,6 @@ NO	2a00:c440::/ffff:fff8::
 GB	2a00:c460::/ffff:ffff::
 PL	2a00:c480::/ffff:ffff::
 IR	2a00:c4a0::/ffff:ffff::
-RU	2a00:c4c0::/ffff:ffff::
 BE	2a00:c4e0::/ffff:ffff::
 CZ	2a00:c500::/ffff:ffff::
 GB	2a00:c520::/ffff:ffff::
@@ -13598,7 +13597,9 @@ IR	2a01:f980::/ffff:fff8::
 HR	2a01:fa00::/ffff:fff8::
 DE	2a01:fa80::/ffff:fff8::
 SI	2a01:fb00::/ffff:fff8::
+IR	2a01:fb80::/ffff:fff8::
 ES	2a01:fc00::/ffff:fff8::
+RU	2a01:fc80::/ffff:fff8::
 IR	2a01:fd00::/ffff:fff8::
 DE	2a01:fe00::/ffff:ffff::
 NL	2a01:ff00::/ffff:fff8::
@@ -15226,7 +15227,6 @@ ES	2a02:ee40::/ffff:fff8::
 NL	2a02:ee80::/ffff:fff8::
 SE	2a02:eec0::/ffff:fff8::
 RU	2a02:ef00::/ffff:fff8::
-RU	2a02:ef40::/ffff:fff8::
 NL	2a02:ef80::/ffff:ffff::
 RU	2a02:efc0::/ffff:fff8::
 CZ	2a02:f000::/ffff:fff8::
@@ -30847,7 +30847,6 @@ NL	2a12:cc40::/ffff:fff8::
 TR	2a12:cc80::/ffff:fff8::
 UA	2a12:ccc0::/ffff:fff8::
 SC	2a12:cd00::/ffff:fff8::
-EE	2a12:cd40::/ffff:fff8::
 US	2a12:cd80::/ffff:fff8::
 RO	2a12:cdc0::/ffff:fff8::
 HK	2a12:ce00::/ffff:fff8::
@@ -32639,7 +32638,7 @@ DE	2001:678:f8::/ffff:ffff:ffff::
 LT	2001:678:fc::/ffff:ffff:ffff::
 BG	2001:678:100::/ffff:ffff:ffff::
 CZ	2001:678:104::/ffff:ffff:ffff::
-UA	2001:678:108::/ffff:ffff:ffff::
+SK	2001:678:108::/ffff:ffff:ffff::
 NL	2001:678:10c::/ffff:ffff:ffff::
 NZ	2001:678:110::/ffff:ffff:ffff::
 DE	2001:678:114::/ffff:ffff:ffff::
@@ -47253,7 +47252,6 @@ HK	2403:1c00::/ffff:ffff::
 CN	2403:1c80::/ffff:ffff::
 MY	2403:1cc0::/ffff:ffff::
 IN	2403:1d00::/ffff:ffff::
-HK	2403:1d40::/ffff:ffff::
 CN	2403:1d80::/ffff:ffff::
 CN	2403:1dc0::/ffff:ffff::
 AS	2403:1e00::/ffff:ffff::
