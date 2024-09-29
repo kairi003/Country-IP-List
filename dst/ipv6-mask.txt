@@ -4226,7 +4226,7 @@ US	2605:6500::/ffff:ffff::
 US	2605:6540::/ffff:ffff::
 US	2605:6580::/ffff:ffff::
 US	2605:65c0::/ffff:ffff::
-US	2605:6600::/ffff:ffff::
+US	2605:6600::/ffff:fff0::
 US	2605:6640::/ffff:ffff::
 US	2605:6680::/ffff:ffff::
 US	2605:66c0::/ffff:ffff::
@@ -6549,6 +6549,7 @@ CA	2607:d700::/ffff:ffff::
 US	2607:d740::/ffff:ffff::
 US	2607:d780::/ffff:ffff::
 US	2607:d7c0::/ffff:ffff::
+US	2607:d840::/ffff:ffff::
 CA	2607:d880::/ffff:ffff::
 US	2607:d900::/ffff:ffff::
 US	2607:d980::/ffff:ffff::
@@ -41411,6 +41412,7 @@ IN	2001:df4:5240::/ffff:ffff:ffff::
 BD	2001:df4:5280::/ffff:ffff:ffff::
 BD	2001:df4:52c0::/ffff:ffff:ffff::
 NZ	2001:df4:5300::/ffff:ffff:ffff::
+BD	2001:df4:5340::/ffff:ffff:ffff::
 BD	2001:df4:5380::/ffff:ffff:ffff::
 ID	2001:df4:5400::/ffff:ffff:ffff::
 IN	2001:df4:5480::/ffff:ffff:ffff::
@@ -55379,6 +55381,7 @@ AR	2803:af00::/ffff:ffff::
 VE	2803:af10::/ffff:ffff::
 AR	2803:af20::/ffff:ffff::
 EC	2803:af40::/ffff:ffff::
+AR	2803:af50::/ffff:ffff::
 SV	2803:af60::/ffff:ffff::
 PY	2803:af80::/ffff:ffff::
 CO	2803:af90::/ffff:ffff::
