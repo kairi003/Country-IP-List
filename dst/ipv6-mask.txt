@@ -1083,6 +1083,9 @@ US	2602:81a:6000::/ffff:ffff:fff0::
 US	2602:81a:7000::/ffff:ffff:ff00::
 GD	2602:81a:8000::/ffff:ffff:fff0::
 US	2602:81a:9000::/ffff:ffff:ff00::
+US	2602:f7b3::/ffff:ffff:ff00::
+US	2602:f7b4::/ffff:ffff:ff00::
+US	2602:f7b5::/ffff:ffff:ff00::
 US	2602:f7b6::/ffff:ffff:ff00::
 US	2602:f7b7::/ffff:ffff:f000::
 US	2602:f7b8::/ffff:ffff:ff00::
@@ -41709,6 +41712,7 @@ BD	2001:df4:87c0::/ffff:ffff:ffff::
 AU	2001:df4:8840::/ffff:ffff:ffff::
 ID	2001:df4:8880::/ffff:ffff:ffff::
 IN	2001:df4:88c0::/ffff:ffff:ffff::
+BD	2001:df4:8940::/ffff:ffff:ffff::
 ID	2001:df4:8980::/ffff:ffff:ffff::
 TW	2001:df4:8a00::/ffff:ffff:ffff::
 ID	2001:df4:8a80::/ffff:ffff:ffff::
@@ -55304,6 +55308,7 @@ HN	2803:9080::/ffff:ffff::
 VE	2803:9090::/ffff:ffff::
 TT	2803:90a0::/ffff:ffff::
 AR	2803:90c0::/ffff:ffff::
+AR	2803:90d0::/ffff:ffff::
 AR	2803:90e0::/ffff:ffff::
 AR	2803:9100::/ffff:ffff::
 CO	2803:9110::/ffff:ffff::
@@ -62672,6 +62677,7 @@ BR	2804:7060::/ffff:ffff::
 BR	2804:7064::/ffff:ffff::
 BR	2804:7068::/ffff:ffff::
 BR	2804:706c::/ffff:ffff::
+BR	2804:7070::/ffff:ffff::
 BR	2804:7074::/ffff:ffff::
 BR	2804:7078::/ffff:ffff::
 BR	2804:707c::/ffff:ffff::
