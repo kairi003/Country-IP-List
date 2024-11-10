@@ -7153,7 +7153,13 @@ CA	2610::/ffff:ffff::
 US	2610:8::/ffff:ffff::
 US	2610:10::/ffff:ffff::
 US	2610:18::/ffff:ffff::
-US	2610:20::/ffff:ffff::
+US	2610:20::/ffff:ffff:c000::
+US	2610:20:4000::/ffff:ffff:e000::
+US	2610:20:6000::/ffff:ffff:f000::
+US	2610:20:7000::/ffff:ffff:f000::
+US	2610:20:8000::/ffff:ffff:e000::
+US	2610:20:a000::/ffff:ffff:e000::
+US	2610:20:c000::/ffff:ffff:c000::
 US	2610:28::/ffff:ffff::
 US	2610:30::/ffff:ffff::
 CA	2610:38::/ffff:ffff::
@@ -8770,6 +8776,7 @@ BS	2620:cf:2000::/ffff:ffff:ffff::
 US	2620:cf:4000::/ffff:ffff:ffff::
 US	2620:cf:6000::/ffff:ffff:ffff::
 US	2620:cf:8000::/ffff:ffff:ffff::
+US	2620:cf:a000::/ffff:ffff:ffff::
 US	2620:cf:c000::/ffff:ffff:fff0::
 US	2620:d0::/ffff:ffff:ffff::
 US	2620:d0:4000::/ffff:ffff:ffff::
@@ -62637,6 +62644,7 @@ BR	2804:6e94::/ffff:ffff::
 BR	2804:6e98::/ffff:ffff::
 BR	2804:6e9c::/ffff:ffff::
 BR	2804:6ea0::/ffff:ffff::
+BR	2804:6ea4::/ffff:ffff::
 BR	2804:6ea8::/ffff:ffff::
 BR	2804:6eac::/ffff:ffff::
 BR	2804:6eb0::/ffff:ffff::
@@ -63002,7 +63010,6 @@ BR	2804:74d0::/ffff:ffff::
 BR	2804:74d4::/ffff:ffff::
 BR	2804:74d8::/ffff:ffff::
 BR	2804:74dc::/ffff:ffff::
-BR	2804:74e0::/ffff:ffff::
 BR	2804:74e4::/ffff:ffff::
 BR	2804:74e8::/ffff:ffff::
 BR	2804:74ec::/ffff:ffff::
@@ -64723,6 +64730,7 @@ BR	2804:9210::/ffff:ffff::
 BR	2804:9214::/ffff:ffff::
 BR	2804:9218::/ffff:ffff::
 BR	2804:921c::/ffff:ffff::
+BR	2804:9220::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
