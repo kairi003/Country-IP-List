@@ -41781,6 +41781,7 @@ ID	2001:df4:9240::/ffff:ffff:ffff::
 ID	2001:df4:9280::/ffff:ffff:ffff::
 ID	2001:df4:92c0::/ffff:ffff:ffff::
 IN	2001:df4:9300::/ffff:ffff:ffff::
+BD	2001:df4:9340::/ffff:ffff:ffff::
 VN	2001:df4:9380::/ffff:ffff:ffff::
 VN	2001:df4:9480::/ffff:ffff:ffff::
 VN	2001:df4:9500::/ffff:ffff:ffff::
@@ -46558,6 +46559,7 @@ TW	2401:d620::/ffff:ffff::
 HK	2401:d640::/ffff:ffff::
 IN	2401:d660::/ffff:ffff::
 MY	2401:d680::/ffff:ffff::
+PK	2401:d6a0::/ffff:ffff::
 AU	2401:d6c0::/ffff:ffff::
 JP	2401:d700::/ffff:ffff::
 MY	2401:d740::/ffff:ffff::
