@@ -5075,6 +5075,7 @@ US	2606:2d40::/ffff:ffff::
 US	2606:2dc0::/ffff:ffff::
 US	2606:2e00::/ffff:ffff::
 US	2606:2e40::/ffff:ffff::
+US	2606:2e80::/ffff:ffff::
 US	2606:2ec0::/ffff:ffff::
 US	2606:2f00::/ffff:ffff::
 CA	2606:2f80::/ffff:ffff::
