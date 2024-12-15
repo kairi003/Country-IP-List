@@ -6726,7 +6726,9 @@ US	2607:e6c0::/ffff:ffff::
 US	2607:e700::/ffff:ffff::
 US	2607:e740::/ffff:ffff::
 US	2607:e780::/ffff:ffff::
+US	2607:e7c0::/ffff:ffff::
 US	2607:e800::/ffff:ffff::
+US	2607:e840::/ffff:ffff::
 US	2607:e880::/ffff:ffff::
 US	2607:e900::/ffff:ffff::
 US	2607:ea00::/ffff:ffff::
@@ -41999,6 +42001,7 @@ BD	2001:df4:c440::/ffff:ffff:ffff::
 ID	2001:df4:c480::/ffff:ffff:ffff::
 IN	2001:df4:c4c0::/ffff:ffff:ffff::
 AU	2001:df4:c500::/ffff:ffff:ffff::
+SG	2001:df4:c540::/ffff:ffff:ffff::
 CN	2001:df4:c580::/ffff:ffff:ffff::
 IN	2001:df4:c600::/ffff:ffff:ffff::
 IN	2001:df4:c680::/ffff:ffff:ffff::
