@@ -1084,6 +1084,9 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f757::/ffff:ffff:f000::
+CA	2602:f758::/ffff:ffff:ff00::
+US	2602:f759::/ffff:ffff:ff00::
 US	2602:f75a::/ffff:ffff:f000::
 CA	2602:f75b::/ffff:ffff:f000::
 US	2602:f75c::/ffff:ffff:ff00::
@@ -42030,6 +42033,7 @@ PK	2001:df4:d140::/ffff:ffff:ffff::
 NP	2001:df4:d180::/ffff:ffff:ffff::
 PK	2001:df4:d1c0::/ffff:ffff:ffff::
 VN	2001:df4:d200::/ffff:ffff:ffff::
+IN	2001:df4:d240::/ffff:ffff:ffff::
 HK	2001:df4:d280::/ffff:ffff:ffff::
 VN	2001:df4:d300::/ffff:ffff:ffff::
 IN	2001:df4:d380::/ffff:ffff:ffff::
@@ -46793,6 +46797,7 @@ CN	2401:e360::/ffff:ffff::
 HK	2401:e380::/ffff:ffff::
 US	2401:e3a0::/ffff:ffff::
 BD	2401:e3c0::/ffff:ffff::
+TW	2401:e3e0::/ffff:ffff::
 ID	2401:e440::/ffff:ffff::
 ID	2401:e480::/ffff:ffff::
 BD	2401:e4c0::/ffff:ffff::
