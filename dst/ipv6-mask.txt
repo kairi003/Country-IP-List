@@ -1084,6 +1084,8 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f74b::/ffff:ffff:ff00::
+US	2602:f74c::/ffff:ffff:f000::
 US	2602:f74d::/ffff:ffff:ff00::
 US	2602:f74e::/ffff:ffff:ff00::
 US	2602:f74f::/ffff:ffff:f000::
@@ -2082,7 +2084,7 @@ US	2602:fb50::/ffff:ffff:ff00::
 US	2602:fb51::/ffff:ffff:ff00::
 US	2602:fb52::/ffff:ffff:ff00::
 CA	2602:fb53::/ffff:ffff:ff00::
-US	2602:fb54::/ffff:ffff:f000::
+US	2602:fb54::/ffff:ffff::
 US	2602:fb55::/ffff:ffff:f000::
 US	2602:fb56::/ffff:ffff:f000::
 US	2602:fb57::/ffff:ffff:f000::
@@ -6766,6 +6768,7 @@ CA	2607:ea80::/ffff:ffff::
 US	2607:eac0::/ffff:ffff::
 CA	2607:eb00::/ffff:ffff::
 US	2607:eb40::/ffff:ffff::
+US	2607:ebc0::/ffff:ffff::
 US	2607:ec00::/ffff:ffff::
 US	2607:ec80::/ffff:ffff::
 CA	2607:ed00::/ffff:ffff::
@@ -42050,6 +42053,7 @@ VN	2001:df4:d9c0::/ffff:ffff:ffff::
 VN	2001:df4:da00::/ffff:ffff:ffff::
 VN	2001:df4:da40::/ffff:ffff:ffff::
 ID	2001:df4:da80::/ffff:ffff:ffff::
+IN	2001:df4:dac0::/ffff:ffff:ffff::
 IN	2001:df4:db00::/ffff:ffff:ffff::
 IN	2001:df4:db01::/ffff:ffff:ffff::
 IN	2001:df4:db02::/ffff:ffff:fffe::
@@ -53728,6 +53732,7 @@ BR	2801:81:c0::/ffff:ffff:ffff::
 BR	2801:81:d0::/ffff:ffff:ffff::
 BR	2801:81:e0::/ffff:ffff:ffff::
 BR	2801:81:f0::/ffff:ffff:ffff::
+BR	2801:81:100::/ffff:ffff:ffff::
 BR	2801:82::/ffff:ffff::
 BR	2801:84::/ffff:ffff::
 BR	2801:86::/ffff:ffff::
