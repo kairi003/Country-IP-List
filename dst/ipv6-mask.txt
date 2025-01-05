@@ -1085,6 +1085,7 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f748::/ffff:ffff:f000::
 US	2602:f749::/ffff:ffff:ff00::
 US	2602:f74a::/ffff:ffff:f000::
 US	2602:f74b::/ffff:ffff:ff00::
@@ -42067,6 +42068,7 @@ ID	2001:df4:db80::/ffff:ffff:ffff::
 IN	2001:df4:dbc0::/ffff:ffff:ffff::
 US	2001:df4:dc40::/ffff:ffff:ffff::
 VN	2001:df4:dc80::/ffff:ffff:ffff::
+BD	2001:df4:dcc0::/ffff:ffff:ffff::
 SG	2001:df4:dd00::/ffff:ffff:ffff::
 DE	2001:df4:dd80::/ffff:ffff:ffff::
 AU	2001:df4:de00::/ffff:ffff:ffff::
@@ -64970,6 +64972,7 @@ BR	2804:92bc::/ffff:ffff::
 BR	2804:92c0::/ffff:ffff::
 BR	2804:92c4::/ffff:ffff::
 BR	2804:92c8::/ffff:ffff::
+BR	2804:92cc::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
