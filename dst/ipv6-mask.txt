@@ -42070,8 +42070,11 @@ US	2001:df4:dc40::/ffff:ffff:ffff::
 VN	2001:df4:dc80::/ffff:ffff:ffff::
 BD	2001:df4:dcc0::/ffff:ffff:ffff::
 SG	2001:df4:dd00::/ffff:ffff:ffff::
+VN	2001:df4:dd40::/ffff:ffff:ffff::
 DE	2001:df4:dd80::/ffff:ffff:ffff::
+VN	2001:df4:ddc0::/ffff:ffff:ffff::
 AU	2001:df4:de00::/ffff:ffff:ffff::
+VN	2001:df4:de40::/ffff:ffff:ffff::
 ID	2001:df4:df00::/ffff:ffff:ffff::
 ID	2001:df4:df80::/ffff:ffff:ffff::
 IN	2001:df4:e000::/ffff:ffff:ffff::
