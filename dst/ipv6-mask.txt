@@ -1085,6 +1085,8 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f746::/ffff:ffff:f000::
+US	2602:f747::/ffff:ffff:ff00::
 US	2602:f748::/ffff:ffff:f000::
 US	2602:f749::/ffff:ffff:ff00::
 US	2602:f74a::/ffff:ffff:f000::
@@ -32711,7 +32713,9 @@ DE	2a14:9300::/ffff:fff8::
 TR	2a14:9400::/ffff:fff8::
 TJ	2a14:9500::/ffff:fff8::
 DE	2a14:9600::/ffff:fff8::
+RU	2a14:9700::/ffff:fff8::
 DE	2a14:9800::/ffff:fff8::
+SC	2a14:9900::/ffff:fff8::
 SC	2a14:9a00::/ffff:fff8::
 TR	2a14:9c00::/ffff:fff8::
 GB	2a14:9e00::/ffff:fff8::
@@ -32988,6 +32992,7 @@ DE	2001:678:354::/ffff:ffff:ffff::
 IE	2001:678:358::/ffff:ffff:ffff::
 DE	2001:678:35c::/ffff:ffff:ffff::
 DE	2001:678:360::/ffff:ffff:ffff::
+RO	2001:678:364::/ffff:ffff:ffff::
 CZ	2001:678:368::/ffff:ffff:ffff::
 DE	2001:678:36c::/ffff:ffff:ffff::
 DE	2001:678:370::/ffff:ffff:ffff::
@@ -42075,7 +42080,9 @@ DE	2001:df4:dd80::/ffff:ffff:ffff::
 VN	2001:df4:ddc0::/ffff:ffff:ffff::
 AU	2001:df4:de00::/ffff:ffff:ffff::
 VN	2001:df4:de40::/ffff:ffff:ffff::
+BD	2001:df4:dec0::/ffff:ffff:ffff::
 ID	2001:df4:df00::/ffff:ffff:ffff::
+NZ	2001:df4:df40::/ffff:ffff:ffff::
 ID	2001:df4:df80::/ffff:ffff:ffff::
 IN	2001:df4:e000::/ffff:ffff:ffff::
 BD	2001:df4:e080::/ffff:ffff:ffff::
@@ -46827,6 +46834,7 @@ BD	2401:e5e0::/ffff:ffff::
 FJ	2401:e600::/ffff:ffff::
 CN	2401:e620::/ffff:ffff::
 PK	2401:e640::/ffff:ffff::
+BD	2401:e660::/ffff:ffff::
 IN	2401:e680::/ffff:ffff::
 JP	2401:e700::/ffff:ffff::
 PH	2401:e740::/ffff:ffff::
@@ -65694,6 +65702,7 @@ ZA	2001:43fe::/ffff:ffff:ffff::
 RW	2001:43fe:800::/ffff:ffff:ffff::
 NG	2001:43fe:1000::/ffff:ffff:fff0::
 ZA	2001:43fe:2000::/ffff:ffff:ffff::
+KE	2001:43fe:2800::/ffff:ffff:ffff::
 UG	2001:43fe:3000::/ffff:ffff:ffff::
 GH	2001:43fe:4000::/ffff:ffff:ffff::
 GH	2001:43fe:5000::/ffff:ffff:ffff::
@@ -66023,6 +66032,7 @@ ZA	2c0f:55c0::/ffff:ffff::
 AO	2c0f:5600::/ffff:ffff::
 SL	2c0f:5640::/ffff:ffff::
 ZA	2c0f:5680::/ffff:ffff::
+RW	2c0f:56c0::/ffff:ffff::
 BF	2c0f:5700::/ffff:ffff::
 KE	2c0f:5740::/ffff:ffff::
 ZA	2c0f:5780::/ffff:ffff::
