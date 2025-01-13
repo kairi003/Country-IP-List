@@ -1545,7 +1545,7 @@ US	2602:f904::/ffff:ffff:ff00::
 US	2602:f906::/ffff:ffff:f000::
 US	2602:f907::/ffff:ffff:f000::
 US	2602:f908::/ffff:ffff:ff00::
-US	2602:f909::/ffff:ffff:ff00::
+VI	2602:f909::/ffff:ffff:ff00::
 US	2602:f90a::/ffff:ffff:ff00::
 CA	2602:f90b::/ffff:ffff:f000::
 US	2602:f90c::/ffff:ffff:ff00::
@@ -46872,6 +46872,7 @@ BD	2401:e860::/ffff:ffff::
 AU	2401:e880::/ffff:ffff::
 TW	2401:e8a0::/ffff:ffff::
 CN	2401:e8c0::/ffff:ffff::
+PG	2401:e8e0::/ffff:ffff::
 BD	2401:e900::/ffff:ffff::
 CN	2401:e940::/ffff:ffff::
 AU	2401:e980::/ffff:ffff::
