@@ -1086,6 +1086,9 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f71a::/ffff:ffff:f000::
+US	2602:f71b::/ffff:ffff:ff00::
+CA	2602:f71c::/ffff:ffff:ff00::
 US	2602:f71d::/ffff:ffff:f000::
 US	2602:f71e::/ffff:ffff:ff00::
 US	2602:f71f::/ffff:ffff:f000::
@@ -17599,7 +17602,6 @@ GB	2a04:6300::/ffff:fff8::
 NO	2a04:6340::/ffff:fff8::
 GB	2a04:6380::/ffff:fff8::
 AE	2a04:63c0::/ffff:fff8::
-GB	2a04:6400::/ffff:fff8::
 DE	2a04:6440::/ffff:fff8::
 BE	2a04:6480::/ffff:fff8::
 DE	2a04:64c0::/ffff:fff8::
@@ -32806,6 +32808,7 @@ PL	2a14:cb00::/ffff:fff8::
 DE	2a14:cc00::/ffff:fff8::
 BG	2a14:cd00::/ffff:fff8::
 GB	2a14:ce00::/ffff:ffff::
+RU	2a14:cf00::/ffff:fff8::
 DE	2a14:d000::/ffff:fff8::
 IT	2a14:d200::/ffff:fff8::
 ES	2a14:d400::/ffff:fff8::
@@ -38421,7 +38424,6 @@ BD	2001:df0:fc80::/ffff:ffff:ffff::
 AU	2001:df0:fd00::/ffff:ffff:ffff::
 PH	2001:df0:fd40::/ffff:ffff:ffff::
 JP	2001:df0:fd80::/ffff:ffff:ffff::
-PH	2001:df0:fdc0::/ffff:ffff:ffff::
 ID	2001:df0:fe40::/ffff:ffff:ffff::
 ID	2001:df0:fe80::/ffff:ffff:ffff::
 PH	2001:df0:fec0::/ffff:ffff:ffff::
@@ -38710,7 +38712,6 @@ PK	2001:df1:4b00::/ffff:ffff:ffff::
 IN	2001:df1:4b40::/ffff:ffff:ffff::
 IN	2001:df1:4b80::/ffff:ffff:ffff::
 BD	2001:df1:4bc0::/ffff:ffff:ffff::
-HK	2001:df1:4c00::/ffff:ffff:ffff::
 WS	2001:df1:4c40::/ffff:ffff:ffff::
 ID	2001:df1:4c80::/ffff:ffff:ffff::
 PK	2001:df1:4cc0::/ffff:ffff:ffff::
@@ -42244,8 +42245,11 @@ IN	2001:df4:fa40::/ffff:ffff:ffff::
 ID	2001:df4:fa80::/ffff:ffff:ffff::
 ID	2001:df4:fac0::/ffff:ffff:ffff::
 ID	2001:df4:fb00::/ffff:ffff:ffff::
+ID	2001:df4:fb40::/ffff:ffff:ffff::
 IN	2001:df4:fb80::/ffff:ffff:ffff::
+IN	2001:df4:fbc0::/ffff:ffff:ffff::
 NZ	2001:df4:fc00::/ffff:ffff:ffff::
+VN	2001:df4:fc40::/ffff:ffff:ffff::
 ID	2001:df4:fc80::/ffff:ffff:ffff::
 BD	2001:df4:fd00::/ffff:ffff:ffff::
 ID	2001:df4:fd80::/ffff:ffff:ffff::
@@ -44723,7 +44727,6 @@ CN	2400:a981::/ffff:ffff::
 CN	2400:a982::/ffff:fffe::
 CN	2400:a984::/ffff:fffc::
 CN	2400:a9a0::/ffff:ffff::
-MM	2400:a9e0::/ffff:ffff::
 LA	2400:aa00::/ffff:ffff::
 SG	2400:aa20::/ffff:ffff::
 MY	2400:aa40::/ffff:ffff::
@@ -48280,7 +48283,6 @@ US	2403:71c0::/ffff:ffff::
 ID	2403:7200::/ffff:ffff::
 BD	2403:7240::/ffff:ffff::
 CN	2403:7280::/ffff:ffff::
-MM	2403:72c0::/ffff:ffff::
 JP	2403:7300::/ffff:ffff::
 IN	2403:7340::/ffff:ffff::
 CN	2403:7380::/ffff:ffff::
