@@ -1086,6 +1086,7 @@ US	2602:81a:b000::/ffff:ffff:fff0::
 US	2602:81a:c000::/ffff:ffff:fff0::
 US	2602:81a:d000::/ffff:ffff:fff0::
 US	2602:81a:e000::/ffff:ffff:fff0::
+US	2602:f712::/ffff:ffff:ff00::
 US	2602:f713::/ffff:ffff:ff00::
 US	2602:f714::/ffff:ffff:ff00::
 US	2602:f715::/ffff:ffff:ff00::
@@ -62174,7 +62175,6 @@ BR	2804:6158::/ffff:ffff::
 BR	2804:615c::/ffff:ffff::
 BR	2804:6160::/ffff:ffff::
 BR	2804:6164::/ffff:ffff::
-BR	2804:6168::/ffff:ffff::
 BR	2804:616c::/ffff:ffff::
 BR	2804:6170::/ffff:ffff::
 BR	2804:6174::/ffff:ffff::
