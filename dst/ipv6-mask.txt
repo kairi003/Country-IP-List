@@ -42328,7 +42328,9 @@ IN	2001:df5:540::/ffff:ffff:ffff::
 IN	2001:df5:580::/ffff:ffff:ffff::
 BD	2001:df5:5c0::/ffff:ffff:ffff::
 ID	2001:df5:600::/ffff:ffff:ffff::
+NP	2001:df5:640::/ffff:ffff:ffff::
 IN	2001:df5:680::/ffff:ffff:ffff::
+BD	2001:df5:6c0::/ffff:ffff:ffff::
 ID	2001:df5:780::/ffff:ffff:ffff::
 HK	2001:df5:800::/ffff:ffff:ffff::
 IN	2001:df5:880::/ffff:ffff:ffff::
@@ -47020,7 +47022,9 @@ IN	2401:eba0::/ffff:ffff::
 BD	2401:ebc0::/ffff:ffff::
 IN	2401:ebe0::/ffff:ffff::
 CN	2401:ec00::/ffff:ffff::
+BD	2401:ec20::/ffff:ffff::
 CN	2401:ec40::/ffff:ffff::
+HK	2401:ec60::/ffff:ffff::
 NZ	2401:ec80::/ffff:ffff::
 HK	2401:ecc0::/ffff:ffff::
 AU	2401:ed00::/ffff:ffff::
