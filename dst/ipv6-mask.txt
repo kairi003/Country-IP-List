@@ -1146,7 +1146,7 @@ US	2602:f727::/ffff:ffff:ff00::
 US	2602:f728::/ffff:ffff:ff00::
 US	2602:f729::/ffff:ffff:ff00::
 US	2602:f72a::/ffff:ffff:f000::
-US	2602:f72b::/ffff:ffff:ff00::
+GB	2602:f72b::/ffff:ffff:ff00::
 CA	2602:f72c::/ffff:ffff:f000::
 US	2602:f72d::/ffff:ffff:f000::
 US	2602:f72e::/ffff:ffff:ff00::
@@ -1316,7 +1316,7 @@ US	2602:f7d1::/ffff:ffff:ff00::
 US	2602:f7d2::/ffff:ffff:ff00::
 US	2602:f7d3::/ffff:ffff:ff00::
 US	2602:f7d4::/ffff:ffff:ff00::
-SG	2602:f7d5::/ffff:ffff:f000::
+US	2602:f7d5::/ffff:ffff:f000::
 US	2602:f7d6::/ffff:ffff:f000::
 US	2602:f7d7::/ffff:ffff:f000::
 US	2602:f7d8::/ffff:ffff:f000::
@@ -1639,7 +1639,7 @@ US	2602:f919::/ffff:ffff:f000::
 US	2602:f91a::/ffff:ffff:ff00::
 US	2602:f91b::/ffff:ffff:ff00::
 US	2602:f91c::/ffff:ffff:f000::
-KN	2602:f91d::/ffff:ffff:ff00::
+NL	2602:f91d::/ffff:ffff:ff00::
 US	2602:f91e::/ffff:ffff:ff00::
 US	2602:f91f::/ffff:ffff:f000::
 US	2602:f920::/ffff:ffff:ff00::
