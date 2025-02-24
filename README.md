@@ -4,7 +4,7 @@ It shows the IP address range of each country obtained and formatted from five R
 
 See [dst/](dst/) for the formatted data.
 
-Last Updated: 2025-02-23T01:40:28+00:00
+Last Updated: 2025-02-24T01:38:01+00:00
 
 
 # Usage
