@@ -724,6 +724,8 @@ US	2602:300::/ffff:ff00::
 US	2602:800::/ffff:ffff:fff0::
 US	2602:800:1000::/ffff:ffff:fff0::
 US	2602:800:2000::/ffff:ffff:ff00::
+US	2602:800:4000::/ffff:ffff:ff00::
+US	2602:800:5000::/ffff:ffff:ff00::
 US	2602:800:6000::/ffff:ffff:fff0::
 US	2602:800:7000::/ffff:ffff:ff00::
 US	2602:800:8000::/ffff:ffff:fff0::
@@ -13459,7 +13461,6 @@ GB	2a01:7ae0::/ffff:ffff::
 LB	2a01:7b00::/ffff:ffff::
 DE	2a01:7b40::/ffff:ffff::
 RU	2a01:7b60::/ffff:ffff::
-RU	2a01:7b80::/ffff:ffff::
 CZ	2a01:7ba0::/ffff:ffff::
 FI	2a01:7bc0::/ffff:ffff::
 DE	2a01:7be0::/ffff:ffff::
@@ -15262,7 +15263,6 @@ CH	2a02:6500::/ffff:fff8::
 ES	2a02:6520::/ffff:ffff::
 GB	2a02:6540::/ffff:ffff::
 FR	2a02:6560::/ffff:ffff::
-IE	2a02:6580::/ffff:ffff::
 RU	2a02:65a0::/ffff:ffff::
 LB	2a02:65c0::/ffff:ffff::
 FR	2a02:65e0::/ffff:ffff::
@@ -32883,9 +32883,13 @@ CZ	2a14:a480::/ffff:ffff::
 GB	2a14:a500::/ffff:fff8::
 FR	2a14:a580::/ffff:fff8::
 FR	2a14:a600::/ffff:fff8::
+FR	2a14:a680::/ffff:fff8::
 AL	2a14:a700::/ffff:fff8::
+IT	2a14:a780::/ffff:fff8::
 DE	2a14:a800::/ffff:fff8::
+DE	2a14:a880::/ffff:fff8::
 GB	2a14:a900::/ffff:fff8::
+IR	2a14:a980::/ffff:fff8::
 UA	2a14:aa00::/ffff:ffff::
 GB	2a14:ab00::/ffff:fff8::
 HK	2a14:ac00::/ffff:fff8::
@@ -33979,6 +33983,9 @@ AT	2001:678:1040::/ffff:ffff:ffff::
 PL	2001:678:1044::/ffff:ffff:ffff::
 DE	2001:678:1048::/ffff:ffff:ffff::
 IE	2001:678:104c::/ffff:ffff:ffff::
+DE	2001:678:1050::/ffff:ffff:ffff::
+GB	2001:678:1054::/ffff:ffff:ffff::
+RU	2001:678:1058::/ffff:ffff:ffff::
 IE	2001:67c::/ffff:ffff:ffff::
 DE	2001:67c:4::/ffff:ffff:ffff::
 CH	2001:67c:8::/ffff:ffff:ffff::
@@ -42595,8 +42602,11 @@ VN	2001:df5:2d40::/ffff:ffff:ffff::
 HK	2001:df5:2d80::/ffff:ffff:ffff::
 VN	2001:df5:2dc0::/ffff:ffff:ffff::
 NZ	2001:df5:2e00::/ffff:ffff:ffff::
+BD	2001:df5:2e40::/ffff:ffff:ffff::
 PK	2001:df5:2e80::/ffff:ffff:ffff::
+ID	2001:df5:2ec0::/ffff:ffff:ffff::
 BD	2001:df5:2f00::/ffff:ffff:ffff::
+ID	2001:df5:2f40::/ffff:ffff:ffff::
 IN	2001:df5:2f80::/ffff:ffff:ffff::
 AU	2001:df5:3000::/ffff:ffff:ffff::
 VN	2001:df5:3080::/ffff:ffff:ffff::
@@ -44939,7 +44949,6 @@ AU	2400:a4c0::/ffff:ffff::
 AU	2400:a500::/ffff:ffff::
 PK	2400:a520::/ffff:ffff::
 BD	2400:a540::/ffff:ffff::
-PK	2400:a560::/ffff:ffff::
 KR	2400:a580::/ffff:ffff::
 CN	2400:a5a0::/ffff:ffff::
 NZ	2400:a5c0::/ffff:ffff::
@@ -47263,6 +47272,8 @@ SG	2401:f2e0::/ffff:ffff::
 CN	2401:f300::/ffff:ffff::
 CN	2401:f320::/ffff:ffff::
 AU	2401:f340::/ffff:ffff::
+AU	2401:f360::/ffff:ffff::
+IN	2401:f3a0::/ffff:ffff::
 HK	2401:f400::/ffff:ffff::
 AU	2401:f440::/ffff:ffff::
 IN	2401:f480::/ffff:ffff::
