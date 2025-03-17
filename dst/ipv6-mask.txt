@@ -1295,7 +1295,7 @@ US	2602:f77f::/ffff:ffff:ff00::
 US	2602:f780::/ffff:ffff:f000::
 PR	2602:f781::/ffff:ffff:f000::
 US	2602:f782::/ffff:ffff:ff00::
-AE	2602:f783::/ffff:ffff:ff00::
+VG	2602:f783::/ffff:ffff:ff00::
 US	2602:f784::/ffff:ffff:f000::
 US	2602:f785::/ffff:ffff:f000::
 US	2602:f786::/ffff:ffff:f000::
