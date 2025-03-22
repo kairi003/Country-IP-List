@@ -1095,6 +1095,9 @@ US	2602:81b:1000::/ffff:ffff:fff0::
 US	2602:81b:2000::/ffff:ffff:fff0::
 US	2602:81b:3000::/ffff:ffff:fff0::
 US	2602:81b:4000::/ffff:ffff:fff0::
+US	2602:f6af::/ffff:ffff:ff00::
+US	2602:f6b0::/ffff:ffff:ff00::
+US	2602:f6b1::/ffff:ffff:ff00::
 US	2602:f6b2::/ffff:ffff:ff00::
 US	2602:f6b3::/ffff:ffff:f000::
 CA	2602:f6b4::/ffff:ffff:ff00::
@@ -4490,7 +4493,7 @@ US	2605:4cc0::/ffff:ffff::
 US	2605:4d00::/ffff:ffff::
 US	2605:4d40::/ffff:ffff::
 US	2605:4d80::/ffff:ffff::
-US	2605:4dc0::/ffff:ffff::
+US	2605:4dc0::/ffff:ffff:f000::
 US	2605:4e00::/ffff:ffff::
 US	2605:4e40::/ffff:ffff::
 US	2605:4ec0::/ffff:ffff::
@@ -7489,6 +7492,7 @@ US	2610:188::/ffff:ffff::
 US	2610:190::/ffff:ffff::
 US	2610:198::/ffff:ffff::
 US	2610:1a0::/ffff:ffff::
+US	2610:1a8::/ffff:ffff::
 US	2610:1b0::/ffff:ffff::
 US	2610:1c0::/ffff:fffe::
 US	2610:1c2::/ffff:ffff::
@@ -32963,6 +32967,7 @@ IT	2a14:c980::/ffff:fff8::
 TR	2a14:ca00::/ffff:fff8::
 US	2a14:ca80::/ffff:ffff::
 PL	2a14:cb00::/ffff:fff8::
+TR	2a14:cb80::/ffff:fff8::
 DE	2a14:cc00::/ffff:fff8::
 BG	2a14:cd00::/ffff:fff8::
 GB	2a14:ce00::/ffff:ffff::
@@ -35992,6 +35997,7 @@ SE	2001:67c:26b0::/ffff:ffff:ffff::
 GB	2001:67c:26b4::/ffff:ffff:ffff::
 GB	2001:67c:26b8::/ffff:ffff:ffff::
 RU	2001:67c:26bc::/ffff:ffff:ffff::
+FR	2001:67c:26c0::/ffff:ffff:ffff::
 SE	2001:67c:26d0::/ffff:ffff:ffff::
 SK	2001:67c:26d4::/ffff:ffff:ffff::
 FR	2001:67c:26d8::/ffff:ffff:ffff::
@@ -40974,7 +40980,6 @@ IN	2001:df3:76c0::/ffff:ffff:ffff::
 ID	2001:df3:7700::/ffff:ffff:ffff::
 ID	2001:df3:7740::/ffff:ffff:ffff::
 AU	2001:df3:7780::/ffff:ffff:ffff::
-CN	2001:df3:77c0::/ffff:ffff:ffff::
 SG	2001:df3:7800::/ffff:ffff:ffff::
 AU	2001:df3:7880::/ffff:ffff:ffff::
 MM	2001:df3:78c0::/ffff:ffff:ffff::
@@ -42722,7 +42727,9 @@ IN	2001:df5:4580::/ffff:ffff:ffff::
 IN	2001:df5:45c0::/ffff:ffff:ffff::
 SG	2001:df5:4600::/ffff:ffff:ffff::
 IN	2001:df5:4640::/ffff:ffff:ffff::
+ID	2001:df5:46c0::/ffff:ffff:ffff::
 IN	2001:df5:4700::/ffff:ffff:ffff::
+CN	2001:df5:4740::/ffff:ffff:ffff::
 AU	2001:df5:4780::/ffff:ffff:ffff::
 BN	2001:df5:4800::/ffff:ffff:ffff::
 AU	2001:df5:4880::/ffff:ffff:ffff::
@@ -44099,6 +44106,7 @@ TW	2001:4540::/ffff:ffe0::
 TW	2001:4580::/ffff:ffc0::
 AU	2001:8000::/ffff:f000::
 SG	2001:9400::/ffff:ffff:ff00::
+AU	2001:9600::/ffff:ffff::
 JP	2001:a000::/ffff:f800::
 TW	2001:b000::/ffff:f800::
 KR	2400::/ffff:f000::
@@ -47373,7 +47381,9 @@ ID	2401:f7a0::/ffff:ffff::
 CN	2401:f7c0::/ffff:ffff::
 IN	2401:f7e0::/ffff:ffff::
 JP	2401:f800::/ffff:ffff::
+JP	2401:f820::/ffff:ffff::
 PK	2401:f840::/ffff:ffff::
+CN	2401:f860::/ffff:ffff::
 MY	2401:f880::/ffff:ffff::
 PK	2401:f8c0::/ffff:ffff::
 SG	2401:f900::/ffff:ffff::
@@ -47937,7 +47947,6 @@ PK	2402:a2c0::/ffff:ffff::
 NP	2402:a300::/ffff:ffff::
 NZ	2402:a340::/ffff:ffff::
 CN	2402:a380::/ffff:ffff::
-CN	2402:a3c0::/ffff:ffff::
 AU	2402:a400::/ffff:ffff::
 PH	2402:a440::/ffff:ffff::
 NZ	2402:a480::/ffff:ffff::
@@ -57551,7 +57560,6 @@ BR	2804:6bc::/ffff:ffff::
 BR	2804:6c0::/ffff:ffff::
 BR	2804:6c4::/ffff:ffff::
 BR	2804:6c8::/ffff:ffff::
-BR	2804:6cc::/ffff:ffff::
 BR	2804:6d0::/ffff:ffff::
 BR	2804:6d4::/ffff:ffff::
 BR	2804:6d8::/ffff:ffff::
@@ -60783,6 +60791,7 @@ BR	2804:42dc::/ffff:ffff::
 BR	2804:42e0::/ffff:ffff::
 BR	2804:42e4::/ffff:ffff::
 BR	2804:42e8::/ffff:ffff::
+BR	2804:42ec::/ffff:ffff::
 BR	2804:42f0::/ffff:ffff::
 BR	2804:42f4::/ffff:ffff::
 BR	2804:42f8::/ffff:ffff::
@@ -63774,6 +63783,7 @@ BR	2804:76cc::/ffff:ffff::
 BR	2804:76d0::/ffff:ffff::
 BR	2804:76d4::/ffff:ffff::
 BR	2804:76d8::/ffff:ffff::
+BR	2804:76dc::/ffff:ffff::
 BR	2804:76e0::/ffff:ffff::
 BR	2804:76e8::/ffff:ffff::
 BR	2804:76ec::/ffff:ffff::
