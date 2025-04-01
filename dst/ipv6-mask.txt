@@ -3372,6 +3372,7 @@ US	2604:9a0::/ffff:ffff::
 US	2604:9c0::/ffff:ffff::
 US	2604:9e0::/ffff:ffff::
 US	2604:a00::/ffff:ffff::
+US	2604:a20::/ffff:ffff::
 US	2604:a40::/ffff:ffff::
 US	2604:a80::/ffff:ffff::
 US	2604:ac0::/ffff:ffff::
@@ -24891,7 +24892,6 @@ US	2a0c:8bc0::/ffff:fff8::
 RS	2a0c:8c00::/ffff:fff8::
 GB	2a0c:8c40::/ffff:fff8::
 FR	2a0c:8c80::/ffff:ffff::
-DE	2a0c:8cc0::/ffff:fff8::
 LV	2a0c:8d00::/ffff:fff8::
 ES	2a0c:8d40::/ffff:fff8::
 DK	2a0c:8d80::/ffff:fff8::
@@ -32993,8 +32993,11 @@ IT	2a14:d780::/ffff:fff8::
 US	2a14:d800::/ffff:fff8::
 RO	2a14:d880::/ffff:ffff::
 IT	2a14:d900::/ffff:fff8::
+DK	2a14:d980::/ffff:fff8::
 IR	2a14:da00::/ffff:fff8::
+PT	2a14:da80::/ffff:fff8::
 RU	2a14:db00::/ffff:fff8::
+TR	2a14:db80::/ffff:fff8::
 NL	2a14:dc00::/ffff:fff8::
 HU	2a14:dd00::/ffff:fff8::
 AZ	2a14:de00::/ffff:fff8::
@@ -35167,6 +35170,7 @@ GB	2001:67c:12b4::/ffff:ffff:ffff::
 DE	2001:67c:12b8::/ffff:ffff:ffff::
 SI	2001:67c:12bc::/ffff:ffff:ffff::
 LV	2001:67c:12c8::/ffff:ffff:ffff::
+UA	2001:67c:12cc::/ffff:ffff:ffff::
 SI	2001:67c:12d0::/ffff:ffff:ffff::
 RU	2001:67c:12d4::/ffff:ffff:ffff::
 NL	2001:67c:12d8::/ffff:ffff:ffff::
@@ -35202,7 +35206,6 @@ RU	2001:67c:1358::/ffff:ffff:ffff::
 SE	2001:67c:135c::/ffff:ffff:ffff::
 GB	2001:67c:1360::/ffff:ffff:ffff::
 DE	2001:67c:1364::/ffff:ffff:ffff::
-CH	2001:67c:1368::/ffff:ffff:ffff::
 CH	2001:67c:136c::/ffff:ffff:ffff::
 UA	2001:67c:1370::/ffff:ffff:ffff::
 RU	2001:67c:1374::/ffff:ffff:ffff::
@@ -36913,6 +36916,7 @@ SA	2001:7f8:15f::/ffff:ffff:ffff::
 NL	2001:7f8:160::/ffff:ffff:ffff::
 BG	2001:7f8:161::/ffff:ffff:ffff::
 QA	2001:7f8:162::/ffff:ffff:ffff::
+QA	2001:7f8:163::/ffff:ffff:ffff::
 PL	2001:7f9::/ffff:ffff:ffff::
 AL	2001:7f9:4::/ffff:ffff:ffff::
 AM	2001:7f9:8::/ffff:ffff:ffff::
@@ -42761,7 +42765,10 @@ PH	2001:df5:4b40::/ffff:ffff:ffff::
 BD	2001:df5:4b80::/ffff:ffff:ffff::
 BD	2001:df5:4bc0::/ffff:ffff:ffff::
 IN	2001:df5:4c00::/ffff:ffff:fffe::
+TH	2001:df5:4c40::/ffff:ffff:ffff::
+CN	2001:df5:4cc0::/ffff:ffff:ffff::
 ID	2001:df5:4d00::/ffff:ffff:ffff::
+BD	2001:df5:4d40::/ffff:ffff:ffff::
 NP	2001:df5:4d80::/ffff:ffff:ffff::
 IN	2001:df5:4e80::/ffff:ffff:ffff::
 ID	2001:df5:4f00::/ffff:ffff:ffff::
@@ -51770,6 +51777,7 @@ VN	2406:e040::/ffff:ffff::
 CN	2406:e080::/ffff:ffff::
 PH	2406:e100::/ffff:ffff::
 CN	2406:e180::/ffff:ffff::
+NP	2406:e1c0::/ffff:ffff::
 JP	2406:e240::/ffff:ffff::
 CN	2406:e2c0::/ffff:ffff::
 HK	2406:e300::/ffff:ffff::
