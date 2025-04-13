@@ -1097,6 +1097,10 @@ US	2602:81b:3000::/ffff:ffff:fff0::
 US	2602:81b:4000::/ffff:ffff:fff0::
 US	2602:81b:5000::/ffff:ffff:fff0::
 US	2602:81b:6000::/ffff:ffff:fff0::
+US	2602:f685::/ffff:ffff:ff00::
+US	2602:f686::/ffff:ffff:ff00::
+US	2602:f687::/ffff:ffff:ff00::
+US	2602:f688::/ffff:ffff:ff00::
 US	2602:f689::/ffff:ffff:f000::
 PA	2602:f68a::/ffff:ffff:ff00::
 US	2602:f68b::/ffff:ffff:ff00::
@@ -1765,7 +1769,7 @@ US	2602:f926::/ffff:ffff:f000::
 US	2602:f927::/ffff:ffff:f000::
 US	2602:f928::/ffff:ffff:f000::
 US	2602:f929::/ffff:ffff:f000::
-US	2602:f92a::/ffff:ffff:f000::
+US	2602:f92a::/ffff:ffff::
 US	2602:f92b::/ffff:ffff:ff00::
 US	2602:f92c::/ffff:ffff:ff00::
 US	2602:f92d::/ffff:ffff:ff00::
@@ -61974,7 +61978,6 @@ BR	2804:55e4::/ffff:ffff::
 BR	2804:55e8::/ffff:ffff::
 BR	2804:55ec::/ffff:ffff::
 BR	2804:55f0::/ffff:ffff::
-BR	2804:55f4::/ffff:ffff::
 BR	2804:55fc::/ffff:ffff::
 BR	2804:5600::/ffff:ffff::
 BR	2804:5604::/ffff:ffff::
@@ -64821,7 +64824,6 @@ BR	2804:877c::/ffff:ffff::
 BR	2804:8780::/ffff:ffff::
 BR	2804:8788::/ffff:ffff::
 BR	2804:878c::/ffff:ffff::
-BR	2804:8790::/ffff:ffff::
 BR	2804:8794::/ffff:ffff::
 BR	2804:8798::/ffff:ffff::
 BR	2804:879c::/ffff:ffff::
