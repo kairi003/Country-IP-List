@@ -1098,6 +1098,7 @@ US	2602:81b:4000::/ffff:ffff:fff0::
 US	2602:81b:5000::/ffff:ffff:fff0::
 US	2602:81b:6000::/ffff:ffff:fff0::
 US	2602:81b:7000::/ffff:ffff:fff0::
+US	2602:f672::/ffff:ffff:ff00::
 US	2602:f673::/ffff:ffff:ff00::
 CA	2602:f674::/ffff:ffff:ff00::
 US	2602:f675::/ffff:ffff:f000::
@@ -3439,7 +3440,9 @@ US	2604:ce0::/ffff:ffff::
 US	2604:d00::/ffff:ffff::
 US	2604:d20::/ffff:ffff::
 CA	2604:d40::/ffff:ffff::
+CA	2604:d60::/ffff:ffff::
 US	2604:d80::/ffff:ffff::
+US	2604:da0::/ffff:ffff::
 CA	2604:dc0::/ffff:ffff::
 US	2604:e00::/ffff:ffff::
 CA	2604:e80::/ffff:ffff::
@@ -42916,6 +42919,7 @@ ID	2001:df5:6280::/ffff:ffff:ffff::
 IN	2001:df5:62c0::/ffff:ffff:ffff::
 IN	2001:df5:6340::/ffff:ffff:ffff::
 NP	2001:df5:6380::/ffff:ffff:ffff::
+IN	2001:df5:63c0::/ffff:ffff:ffff::
 JP	2001:df5:6400::/ffff:ffff:ffff::
 IN	2001:df5:6480::/ffff:ffff:ffff::
 AU	2001:df5:6500::/ffff:ffff:ffff::
@@ -47559,6 +47563,7 @@ IN	2401:fe40::/ffff:ffff::
 HK	2401:fe60::/ffff:ffff::
 MM	2401:fea0::/ffff:ffff::
 IN	2401:fec0::/ffff:ffff::
+IN	2401:fee0::/ffff:ffff::
 NZ	2401:ff00::/ffff:ffff::
 NP	2401:ff40::/ffff:ffff::
 BD	2401:ff80::/ffff:ffff::
