@@ -1099,6 +1099,7 @@ US	2602:81b:4000::/ffff:ffff:fff0::
 US	2602:81b:5000::/ffff:ffff:fff0::
 US	2602:81b:6000::/ffff:ffff:fff0::
 US	2602:81b:7000::/ffff:ffff:fff0::
+US	2602:81b:8000::/ffff:ffff:fff0::
 US	2602:f65f::/ffff:ffff:ff00::
 US	2602:f660::/ffff:ffff:ff00::
 US	2602:f661::/ffff:ffff:ff00::
@@ -43055,7 +43056,9 @@ IN	2001:df5:7b40::/ffff:ffff:ffff::
 IN	2001:df5:7b80::/ffff:ffff:ffff::
 NZ	2001:df5:7bc0::/ffff:ffff:ffff::
 IN	2001:df5:7c00::/ffff:ffff:ffff::
+VN	2001:df5:7c40::/ffff:ffff:ffff::
 IN	2001:df5:7c80::/ffff:ffff:ffff::
+VN	2001:df5:7cc0::/ffff:ffff:ffff::
 IN	2001:df5:7d80::/ffff:ffff:ffff::
 BD	2001:df5:7e00::/ffff:ffff:ffff::
 HK	2001:df5:7e80::/ffff:ffff:ffff::
