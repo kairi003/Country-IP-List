@@ -294,7 +294,6 @@ US	2001:504:131::/ffff:ffff:ffff::
 CA	2001:504:132::/ffff:ffff:ffff::
 US	2001:504:133::/ffff:ffff:ffff::
 US	2001:504:134::/ffff:ffff:ffff::
-CA	2001:504:135::/ffff:ffff:ffff::
 US	2001:504:136::/ffff:ffff:ffff::
 US	2001:504:137::/ffff:ffff:ffff::
 US	2001:504:138::/ffff:ffff:ffff::
@@ -1100,6 +1099,11 @@ US	2602:81b:5000::/ffff:ffff:fff0::
 US	2602:81b:6000::/ffff:ffff:fff0::
 US	2602:81b:7000::/ffff:ffff:fff0::
 US	2602:81b:8000::/ffff:ffff:fff0::
+US	2602:f654::/ffff:ffff:ff00::
+US	2602:f655::/ffff:ffff:ff00::
+US	2602:f656::/ffff:ffff:f000::
+CA	2602:f657::/ffff:ffff:f000::
+US	2602:f658::/ffff:ffff:ff00::
 US	2602:f659::/ffff:ffff:f000::
 US	2602:f65a::/ffff:ffff:ff00::
 US	2602:f65b::/ffff:ffff:f000::
@@ -9208,7 +9212,9 @@ US	2620:d6:2000::/ffff:ffff:ffff::
 US	2620:d6:4000::/ffff:ffff:ffff::
 US	2620:d6:6000::/ffff:ffff:ffff::
 US	2620:d6:8000::/ffff:ffff:ffff::
+US	2620:d6:a000::/ffff:ffff:ffff::
 US	2620:d6:c000::/ffff:ffff:ffff::
+US	2620:d6:e000::/ffff:ffff:ffff::
 US	2620:d7::/ffff:ffff:ffff::
 CA	2620:d7:4000::/ffff:ffff:ffff::
 US	2620:d7:8000::/ffff:ffff:ffff::
@@ -17341,6 +17347,7 @@ RU	2a03:e400::/ffff:fffe::
 DE	2a03:e440::/ffff:fff8::
 RU	2a03:e480::/ffff:ffff::
 ES	2a03:e4c0::/ffff:fff8::
+DK	2a03:e500::/ffff:ffff::
 RU	2a03:e540::/ffff:ffff::
 FI	2a03:e580::/ffff:fff8::
 IT	2a03:e5c0::/ffff:ffff::
@@ -35306,6 +35313,7 @@ SE	2001:67c:12b0::/ffff:ffff:ffff::
 GB	2001:67c:12b4::/ffff:ffff:ffff::
 DE	2001:67c:12b8::/ffff:ffff:ffff::
 SI	2001:67c:12bc::/ffff:ffff:ffff::
+NL	2001:67c:12c0::/ffff:ffff:ffff::
 LV	2001:67c:12c8::/ffff:ffff:ffff::
 UA	2001:67c:12cc::/ffff:ffff:ffff::
 SI	2001:67c:12d0::/ffff:ffff:ffff::
@@ -43099,8 +43107,11 @@ VN	2001:df5:8340::/ffff:ffff:ffff::
 HK	2001:df5:8380::/ffff:ffff:ffff::
 ID	2001:df5:83c0::/ffff:ffff:ffff::
 SG	2001:df5:8400::/ffff:ffff:ffff::
+ID	2001:df5:8440::/ffff:ffff:ffff::
 HK	2001:df5:8480::/ffff:ffff:ffff::
+ID	2001:df5:84c0::/ffff:ffff:ffff::
 ID	2001:df5:8500::/ffff:ffff:ffff::
+HK	2001:df5:8540::/ffff:ffff:ffff::
 HK	2001:df5:8580::/ffff:ffff:ffff::
 IN	2001:df5:8680::/ffff:ffff:ffff::
 ID	2001:df5:8700::/ffff:ffff:ffff::
@@ -56028,6 +56039,7 @@ AR	2803:6e60::/ffff:ffff::
 HN	2803:6e80::/ffff:ffff::
 AR	2803:6ea0::/ffff:ffff::
 EC	2803:6ec0::/ffff:ffff::
+CO	2803:6ed0::/ffff:ffff::
 AR	2803:6ee0::/ffff:ffff::
 CL	2803:6f00::/ffff:ffff::
 DO	2803:6f10::/ffff:ffff::
