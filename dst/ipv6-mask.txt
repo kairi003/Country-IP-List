@@ -2243,7 +2243,7 @@ US	2602:fac6::/ffff:ffff:f000::
 US	2602:fac7::/ffff:ffff:f000::
 CA	2602:fac8::/ffff:ffff:f000::
 US	2602:fac9::/ffff:ffff:ff00::
-US	2602:faca::/ffff:ffff:f000::
+PR	2602:faca::/ffff:ffff:f000::
 CA	2602:facc::/ffff:ffff:f000::
 US	2602:facd::/ffff:ffff:f000::
 US	2602:face::/ffff:ffff:f000::

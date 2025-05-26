@@ -2243,7 +2243,7 @@ US	2602:fac6::/36
 US	2602:fac7::/36
 CA	2602:fac8::/36
 US	2602:fac9::/40
-US	2602:faca::/36
+PR	2602:faca::/36
 CA	2602:facc::/36
 US	2602:facd::/36
 US	2602:face::/36
