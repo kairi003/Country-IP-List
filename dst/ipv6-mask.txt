@@ -1098,6 +1098,10 @@ US	2602:81b:8000::/ffff:ffff:fff0::
 US	2602:81b:9000::/ffff:ffff:fff0::
 US	2602:81b:a000::/ffff:ffff:fff0::
 US	2602:81b:b000::/ffff:ffff:ff00::
+US	2602:f631::/ffff:ffff:ff00::
+US	2602:f632::/ffff:ffff:ff00::
+CA	2602:f633::/ffff:ffff:ff00::
+US	2602:f634::/ffff:ffff:ff00::
 US	2602:f635::/ffff:ffff:ff00::
 US	2602:f636::/ffff:ffff:ff00::
 US	2602:f637::/ffff:ffff:ff00::
@@ -3525,6 +3529,7 @@ US	2604:1120::/ffff:ffff::
 US	2604:1140::/ffff:ffff::
 US	2604:1160::/ffff:ffff::
 US	2604:1180::/ffff:ffff::
+US	2604:11a0::/ffff:ffff::
 US	2604:1200::/ffff:ffff::
 US	2604:1240::/ffff:ffff::
 US	2604:1280::/ffff:ffff::
@@ -34253,6 +34258,7 @@ SE	2001:678:1084::/ffff:ffff:ffff::
 FR	2001:678:1088::/ffff:ffff:ffff::
 DE	2001:678:108c::/ffff:ffff:ffff::
 HR	2001:678:1090::/ffff:ffff:ffff::
+PT	2001:678:1094::/ffff:ffff:ffff::
 IE	2001:67c::/ffff:ffff:ffff::
 DE	2001:67c:4::/ffff:ffff:ffff::
 CH	2001:67c:8::/ffff:ffff:ffff::
@@ -43285,8 +43291,11 @@ IN	2001:df5:a240::/ffff:ffff:ffff::
 IN	2001:df5:a280::/ffff:ffff:ffff::
 IN	2001:df5:a2c0::/ffff:ffff:ffff::
 BT	2001:df5:a300::/ffff:ffff:ffff::
+IN	2001:df5:a340::/ffff:ffff:fffe::
 IN	2001:df5:a380::/ffff:ffff:ffff::
+SG	2001:df5:a3c0::/ffff:ffff:ffff::
 IN	2001:df5:a400::/ffff:ffff:ffff::
+IN	2001:df5:a440::/ffff:ffff:ffff::
 NZ	2001:df5:a480::/ffff:ffff:ffff::
 MY	2001:df5:a500::/ffff:ffff:ffff::
 AU	2001:df5:a580::/ffff:ffff:ffff::
@@ -47887,7 +47896,9 @@ BD	2402:e20::/ffff:ffff::
 AU	2402:e40::/ffff:ffff::
 HK	2402:e60::/ffff:ffff::
 IN	2402:e80::/ffff:ffff::
+JP	2402:ea0::/ffff:ffff::
 AU	2402:ec0::/ffff:ffff::
+IN	2402:ee0::/ffff:ffff::
 AU	2402:f00::/ffff:ffff::
 IN	2402:f80::/ffff:ffff::
 CN	2402:fc0::/ffff:ffff::
@@ -48492,7 +48503,6 @@ BD	2402:c1c0::/ffff:ffff::
 JP	2402:c200::/ffff:ffff::
 NZ	2402:c240::/ffff:ffff::
 CN	2402:c280::/ffff:ffff::
-BD	2402:c2c0::/ffff:ffff::
 ID	2402:c300::/ffff:ffff::
 TW	2402:c340::/ffff:ffff::
 TH	2402:c380::/ffff:ffff::
@@ -57667,6 +57677,7 @@ CO	2803:fe60::/ffff:ffff::
 PE	2803:fe80::/ffff:ffff::
 AR	2803:fe90::/ffff:ffff::
 AR	2803:fec0::/ffff:ffff::
+HN	2803:fed0::/ffff:ffff::
 AR	2803:fee0::/ffff:ffff::
 CO	2803:ff10::/ffff:ffff::
 CO	2803:ff20::/ffff:ffff::
@@ -64354,7 +64365,6 @@ BR	2804:7900::/ffff:ffff::
 BR	2804:7904::/ffff:ffff::
 BR	2804:7908::/ffff:ffff::
 BR	2804:790c::/ffff:ffff::
-BR	2804:7910::/ffff:ffff::
 BR	2804:7914::/ffff:ffff::
 BR	2804:7918::/ffff:ffff::
 BR	2804:791c::/ffff:ffff::
