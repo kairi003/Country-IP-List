@@ -8464,7 +8464,7 @@ CA	2620:5d:a000::/ffff:ffff:ffff::
 US	2620:5d:c000::/ffff:ffff:ffff::
 US	2620:5d:e000::/ffff:ffff:ffff::
 US	2620:5e::/ffff:ffff:ffff::
-US	2620:5e:2000::/ffff:ffff:ffff::
+US	2620:5e:2000::/ffff:ffff:ff00::
 CA	2620:5e:4000::/ffff:ffff:ffff::
 US	2620:5e:6000::/ffff:ffff:ffff::
 US	2620:5e:8000::/ffff:ffff:ffff::
@@ -65999,6 +65999,8 @@ BR	2804:9438::/ffff:ffff::
 BR	2804:943c::/ffff:ffff::
 BR	2804:9440::/ffff:ffff::
 BR	2804:9444::/ffff:ffff::
+BR	2804:9448::/ffff:ffff::
+BR	2804:944c::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
