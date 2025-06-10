@@ -43377,8 +43377,11 @@ NZ	2001:df5:b000::/ffff:ffff:ffff::
 AU	2001:df5:b040::/ffff:ffff:ffff::
 IN	2001:df5:b0c0::/ffff:ffff:ffff::
 ID	2001:df5:b100::/ffff:ffff:ffff::
+IN	2001:df5:b140::/ffff:ffff:ffff::
 IN	2001:df5:b180::/ffff:ffff:ffff::
+VN	2001:df5:b1c0::/ffff:ffff:ffff::
 AU	2001:df5:b200::/ffff:ffff:ffff::
+VN	2001:df5:b240::/ffff:ffff:ffff::
 IN	2001:df5:b280::/ffff:ffff:ffff::
 ID	2001:df5:b300::/ffff:ffff:ffff::
 IN	2001:df5:b380::/ffff:ffff:ffff::
@@ -45366,7 +45369,6 @@ TW	2400:91e0::/ffff:ffff::
 BD	2400:9220::/ffff:ffff::
 AU	2400:9260::/ffff:ffff::
 ID	2400:9280::/ffff:ffff::
-BD	2400:92a0::/ffff:ffff::
 IN	2400:92e0::/ffff:ffff::
 PG	2400:9300::/ffff:ffff::
 HK	2400:9320::/ffff:ffff::
@@ -47965,6 +47967,7 @@ ID	2402:f60::/ffff:ffff::
 IN	2402:f80::/ffff:ffff::
 BD	2402:fa0::/ffff:ffff::
 CN	2402:fc0::/ffff:ffff::
+IN	2402:fe0::/ffff:ffff::
 CN	2402:1000::/ffff:ffff::
 PK	2402:1040::/ffff:ffff::
 IN	2402:1080::/ffff:ffff::
