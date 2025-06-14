@@ -1100,6 +1100,9 @@ US	2602:81b:9000::/ffff:ffff:fff0::
 US	2602:81b:a000::/ffff:ffff:fff0::
 US	2602:81b:b000::/ffff:ffff:ff00::
 US	2602:81b:c000::/ffff:ffff:fff0::
+US	2602:f616::/ffff:ffff:ff00::
+US	2602:f617::/ffff:ffff:ff00::
+US	2602:f618::/ffff:ffff:ff00::
 US	2602:f619::/ffff:ffff:ff00::
 US	2602:f61a::/ffff:ffff:f000::
 US	2602:f61b::/ffff:ffff:ff00::
@@ -22206,6 +22209,7 @@ ES	2a09:ab40::/ffff:fff8::
 RS	2a09:ab80::/ffff:fff8::
 PL	2a09:abc0::/ffff:fff8::
 PL	2a09:ac00::/ffff:fff8::
+BE	2a09:ac40::/ffff:fff8::
 GB	2a09:ac80::/ffff:fff8::
 RU	2a09:acc0::/ffff:fff8::
 IR	2a09:ad00::/ffff:fff8::
@@ -22424,6 +22428,7 @@ DE	2a09:e180::/ffff:fff8::
 DE	2a09:e1c0::/ffff:fff8::
 CZ	2a09:e200::/ffff:fff8::
 NL	2a09:e240::/ffff:fff8::
+UZ	2a09:e280::/ffff:fff8::
 RU	2a09:e2c0::/ffff:fff8::
 RU	2a09:e300::/ffff:fff8::
 FI	2a09:e340::/ffff:fff8::
@@ -24365,7 +24370,7 @@ SK	2a0b:d140::/ffff:fff8::
 IT	2a0b:d180::/ffff:fff8::
 DE	2a0b:d1c0::/ffff:ffff::
 IL	2a0b:d200::/ffff:fff8::
-NL	2a0b:d240::/ffff:ffff::
+NO	2a0b:d240::/ffff:ffff::
 RU	2a0b:d280::/ffff:fff8::
 DK	2a0b:d2c0::/ffff:fff8::
 IR	2a0b:d300::/ffff:fff8::
@@ -34292,6 +34297,9 @@ HR	2001:678:10a0::/ffff:ffff:ffff::
 PL	2001:678:10a4::/ffff:ffff:ffff::
 DE	2001:678:10a8::/ffff:ffff:ffff::
 DE	2001:678:10ac::/ffff:ffff:ffff::
+GB	2001:678:10b0::/ffff:ffff:ffff::
+DE	2001:678:10b4::/ffff:ffff:ffff::
+DE	2001:678:10b8::/ffff:ffff:ffff::
 IE	2001:67c::/ffff:ffff:ffff::
 DE	2001:67c:4::/ffff:ffff:ffff::
 CH	2001:67c:8::/ffff:ffff:ffff::
@@ -43406,8 +43414,11 @@ HK	2001:df5:b800::/ffff:ffff:ffff::
 IN	2001:df5:b840::/ffff:ffff:ffff::
 TH	2001:df5:b880::/ffff:ffff:ffff::
 TH	2001:df5:b881::/ffff:ffff:ffff::
+ID	2001:df5:b8c0::/ffff:ffff:ffff::
 VN	2001:df5:b900::/ffff:ffff:ffff::
+ID	2001:df5:b940::/ffff:ffff:ffff::
 AU	2001:df5:b980::/ffff:ffff:ffff::
+IN	2001:df5:b9c0::/ffff:ffff:ffff::
 IN	2001:df5:ba80::/ffff:ffff:ffff::
 VN	2001:df5:bb00::/ffff:ffff:ffff::
 BD	2001:df5:bb80::/ffff:ffff:ffff::
@@ -47987,6 +47998,7 @@ AU	2402:10c0::/ffff:ffff::
 MY	2402:1100::/ffff:ffff::
 PK	2402:1120::/ffff:ffff::
 AU	2402:1140::/ffff:ffff::
+CN	2402:1160::/ffff:ffff::
 AU	2402:1180::/ffff:ffff::
 HK	2402:11c0::/ffff:ffff::
 ID	2402:1200::/ffff:ffff::
@@ -63790,7 +63802,6 @@ BR	2804:6de8::/ffff:ffff::
 BR	2804:6dec::/ffff:ffff::
 BR	2804:6df0::/ffff:ffff::
 BR	2804:6df4::/ffff:ffff::
-BR	2804:6df8::/ffff:ffff::
 BR	2804:6e00::/ffff:ffff::
 BR	2804:6e04::/ffff:ffff::
 BR	2804:6e08::/ffff:ffff::
