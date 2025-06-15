@@ -3571,6 +3571,7 @@ US	2604:1360::/ffff:ffff::
 US	2604:1380::/ffff:ffff::
 US	2604:13a0::/ffff:ffff::
 CA	2604:13c0::/ffff:ffff::
+US	2604:13e0::/ffff:ffff::
 PR	2604:1400::/ffff:ffff::
 US	2604:1440::/ffff:ffff::
 US	2604:1480::/ffff:ffff::
@@ -43419,6 +43420,7 @@ VN	2001:df5:b900::/ffff:ffff:ffff::
 ID	2001:df5:b940::/ffff:ffff:ffff::
 AU	2001:df5:b980::/ffff:ffff:ffff::
 IN	2001:df5:b9c0::/ffff:ffff:ffff::
+PH	2001:df5:ba40::/ffff:ffff:ffff::
 IN	2001:df5:ba80::/ffff:ffff:ffff::
 VN	2001:df5:bb00::/ffff:ffff:ffff::
 BD	2001:df5:bb80::/ffff:ffff:ffff::
