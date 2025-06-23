@@ -1100,6 +1100,7 @@ US	2602:81b:9000::/ffff:ffff:fff0::
 US	2602:81b:a000::/ffff:ffff:fff0::
 US	2602:81b:b000::/ffff:ffff:ff00::
 US	2602:81b:c000::/ffff:ffff:fff0::
+US	2602:f60e::/ffff:ffff:ff00::
 CA	2602:f60f::/ffff:ffff:f000::
 US	2602:f610::/ffff:ffff:ff00::
 US	2602:f611::/ffff:ffff:ff00::
