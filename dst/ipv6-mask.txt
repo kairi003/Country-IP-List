@@ -1101,6 +1101,9 @@ US	2602:81b:a000::/ffff:ffff:fff0::
 US	2602:81b:b000::/ffff:ffff:ff00::
 US	2602:81b:c000::/ffff:ffff:fff0::
 US	2602:81b:d000::/ffff:ffff:ff00::
+US	2602:f60a::/ffff:ffff:ff00::
+US	2602:f60b::/ffff:ffff:ff00::
+US	2602:f60c::/ffff:ffff:ff00::
 US	2602:f60d::/ffff:ffff:ff00::
 US	2602:f60e::/ffff:ffff:ff00::
 CA	2602:f60f::/ffff:ffff:f000::
@@ -3590,6 +3593,7 @@ US	2604:1460::/ffff:ffff::
 US	2604:1480::/ffff:ffff::
 US	2604:14a0::/ffff:ffff::
 US	2604:14c0::/ffff:ffff::
+US	2604:14e0::/ffff:ffff::
 CA	2604:1500::/ffff:ffff::
 US	2604:1540::/ffff:ffff::
 US	2604:1580::/ffff:ffff::
@@ -14795,7 +14799,6 @@ RU	2a02:13e8::/ffff:fff8::
 RO	2a02:13f0::/ffff:ffff::
 DE	2a02:13f8::/ffff:fff8::
 SE	2a02:1400::/ffff:ffc0::
-IE	2a02:1600::/ffff:fff8::
 DE	2a02:1608::/ffff:ffff::
 SE	2a02:1610::/ffff:ffff::
 MD	2a02:1618::/ffff:ffff::
@@ -14868,7 +14871,6 @@ ES	2a02:2068::/ffff:fff8::
 RU	2a02:2070::/ffff:ffff::
 IE	2a02:2078::/ffff:ffff::
 GB	2a02:2080::/ffff:ffff::
-CZ	2a02:2088::/ffff:ffff::
 RU	2a02:2090::/ffff:ffff::
 FR	2a02:2098::/ffff:fff8::
 NO	2a02:20a0::/ffff:ffff::
@@ -18777,6 +18779,7 @@ NO	2a05:3f00::/ffff:fff8::
 NL	2a05:3f40::/ffff:fff8::
 GR	2a05:3f80::/ffff:fff8::
 DE	2a05:3fc0::/ffff:fff8::
+BG	2a05:4000::/ffff:fff8::
 GB	2a05:4040::/ffff:fff8::
 EE	2a05:4080::/ffff:fff8::
 PL	2a05:40c0::/ffff:fff8::
@@ -35409,7 +35412,6 @@ NL	2001:67c:13b4::/ffff:ffff:ffff::
 UA	2001:67c:13b8::/ffff:ffff:ffff::
 SE	2001:67c:13bc::/ffff:ffff:ffff::
 CH	2001:67c:13c0::/ffff:ffff:ffff::
-CZ	2001:67c:13c4::/ffff:ffff:ffff::
 LV	2001:67c:13c8::/ffff:ffff:ffff::
 GB	2001:67c:13cc::/ffff:ffff:ffff::
 RU	2001:67c:13d0::/ffff:ffff:ffff::
@@ -36041,6 +36043,7 @@ SE	2001:67c:240c::/ffff:ffff:ffff::
 TR	2001:67c:2410::/ffff:ffff:ffff::
 DE	2001:67c:2414::/ffff:ffff:ffff::
 AT	2001:67c:2418::/ffff:ffff:ffff::
+NL	2001:67c:241c::/ffff:ffff:ffff::
 AT	2001:67c:2420::/ffff:ffff:ffff::
 SI	2001:67c:2424::/ffff:ffff:ffff::
 SE	2001:67c:2428::/ffff:ffff:ffff::
@@ -43378,6 +43381,7 @@ IN	2001:df5:c840::/ffff:ffff:ffff::
 BD	2001:df5:c880::/ffff:ffff:ffff::
 TH	2001:df5:c8c0::/ffff:ffff:ffff::
 ID	2001:df5:c900::/ffff:ffff:ffff::
+IN	2001:df5:c940::/ffff:ffff:ffff::
 TH	2001:df5:ca00::/ffff:ffff:ffff::
 HK	2001:df5:ca80::/ffff:ffff:ffff::
 AU	2001:df5:cb00::/ffff:ffff:ffff::
@@ -51245,7 +51249,6 @@ ID	2405:d640::/ffff:ffff::
 MY	2405:d680::/ffff:ffff::
 HK	2405:d6c0::/ffff:ffff::
 CN	2405:d700::/ffff:ffff::
-CN	2405:d740::/ffff:ffff::
 JP	2405:d780::/ffff:ffff::
 NZ	2405:d7c0::/ffff:ffff::
 HK	2405:d800::/ffff:ffff::
@@ -56138,6 +56141,7 @@ CO	2803:6960::/ffff:ffff::
 AR	2803:6980::/ffff:ffff::
 VE	2803:6990::/ffff:ffff::
 GT	2803:69a0::/ffff:ffff::
+DO	2803:69d0::/ffff:ffff::
 AR	2803:69e0::/ffff:ffff::
 EC	2803:6a00::/ffff:ffff::
 CL	2803:6a10::/ffff:ffff::
@@ -65965,6 +65969,7 @@ BR	2804:9460::/ffff:ffff::
 BR	2804:9464::/ffff:ffff::
 BR	2804:9468::/ffff:ffff::
 BR	2804:946c::/ffff:ffff::
+BR	2804:9470::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
