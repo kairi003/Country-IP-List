@@ -1102,6 +1102,8 @@ US	2602:81b:b000::/ffff:ffff:ff00::
 US	2602:81b:c000::/ffff:ffff:fff0::
 US	2602:81b:d000::/ffff:ffff:ff00::
 US	2602:81b:e000::/ffff:ffff:ff00::
+US	2602:f5f6::/ffff:ffff:ff00::
+US	2602:f5f7::/ffff:ffff:ff00::
 US	2602:f5f8::/ffff:ffff:f000::
 US	2602:f5f9::/ffff:ffff:ff00::
 US	2602:f5fa::/ffff:ffff:ff00::
@@ -7268,7 +7270,7 @@ US	2607:f2c8::/ffff:ffff::
 US	2607:f2d0::/ffff:ffff::
 US	2607:f2d8::/ffff:ffff::
 US	2607:f2f8::/ffff:ffff::
-LC	2607:f308::/ffff:ffff::
+US	2607:f308::/ffff:ffff::
 US	2607:f310::/ffff:ffff::
 US	2607:f318::/ffff:ffff::
 US	2607:f330::/ffff:ffff::
@@ -33306,7 +33308,6 @@ CZ	2001:678:160::/ffff:ffff:ffff::
 RO	2001:678:164::/ffff:ffff:ffff::
 DE	2001:678:168::/ffff:ffff:ffff::
 BG	2001:678:16c::/ffff:ffff:ffff::
-PL	2001:678:170::/ffff:ffff:ffff::
 IL	2001:678:174::/ffff:ffff:ffff::
 RU	2001:678:178::/ffff:ffff:ffff::
 CZ	2001:678:17c::/ffff:ffff:ffff::
@@ -34240,6 +34241,7 @@ GB	2001:678:10b0::/ffff:ffff:ffff::
 DE	2001:678:10b4::/ffff:ffff:ffff::
 DE	2001:678:10b8::/ffff:ffff:ffff::
 DE	2001:678:10bc::/ffff:ffff:ffff::
+NL	2001:678:10c0::/ffff:ffff:ffff::
 IE	2001:67c::/ffff:ffff:ffff::
 DE	2001:67c:4::/ffff:ffff:ffff::
 CH	2001:67c:8::/ffff:ffff:ffff::
@@ -36078,6 +36080,7 @@ DE	2001:67c:2440::/ffff:ffff:ffff::
 SE	2001:67c:2444::/ffff:ffff:ffff::
 SE	2001:67c:2448::/ffff:ffff:ffff::
 RU	2001:67c:244c::/ffff:ffff:ffff::
+GB	2001:67c:2450::/ffff:ffff:ffff::
 SE	2001:67c:2454::/ffff:ffff:ffff::
 NO	2001:67c:2458::/ffff:ffff:ffff::
 FI	2001:67c:245c::/ffff:ffff:ffff::
@@ -43441,9 +43444,14 @@ VN	2001:df5:d140::/ffff:ffff:ffff::
 IN	2001:df5:d180::/ffff:ffff:ffff::
 ID	2001:df5:d1c0::/ffff:ffff:ffff::
 ID	2001:df5:d200::/ffff:ffff:ffff::
+ID	2001:df5:d240::/ffff:ffff:ffff::
 IN	2001:df5:d280::/ffff:ffff:ffff::
+PK	2001:df5:d2c0::/ffff:ffff:ffff::
 IN	2001:df5:d300::/ffff:ffff:ffff::
+ID	2001:df5:d340::/ffff:ffff:ffff::
 IN	2001:df5:d380::/ffff:ffff:ffff::
+BD	2001:df5:d3c0::/ffff:ffff:ffff::
+IN	2001:df5:d440::/ffff:ffff:ffff::
 AU	2001:df5:d480::/ffff:ffff:ffff::
 AU	2001:df5:d500::/ffff:ffff:ffff::
 AU	2001:df5:d501::/ffff:ffff:ffff::
@@ -47997,7 +48005,9 @@ JP	2402:1400::/ffff:ffff::
 IN	2402:1420::/ffff:ffff::
 CN	2402:1440::/ffff:ffff::
 CN	2402:1460::/ffff:ffff::
+PK	2402:14a0::/ffff:ffff::
 CN	2402:14c0::/ffff:ffff::
+IN	2402:14e0::/ffff:ffff::
 AU	2402:1500::/ffff:ffff::
 HK	2402:1540::/ffff:ffff::
 JP	2402:1580::/ffff:ffff::
@@ -50348,7 +50358,6 @@ IN	2404:cb40::/ffff:ffff::
 ID	2404:cbc0::/ffff:ffff::
 KH	2404:cc00::/ffff:ffff::
 SG	2404:cc40::/ffff:ffff::
-AU	2404:cc80::/ffff:ffff::
 HK	2404:ccc0::/ffff:ffff::
 CN	2404:cd00::/ffff:ffff::
 BD	2404:cd40::/ffff:ffff::
@@ -52834,6 +52843,7 @@ HK	2407:8480::/ffff:ffff::
 ID	2407:84c0::/ffff:ffff::
 SG	2407:8500::/ffff:ffff::
 ID	2407:8540::/ffff:ffff::
+PK	2407:8580::/ffff:ffff::
 ID	2407:85c0::/ffff:ffff::
 AU	2407:8600::/ffff:ffff::
 ID	2407:8640::/ffff:ffff::
@@ -55680,6 +55690,7 @@ VE	2803:3980::/ffff:ffff::
 VE	2803:3990::/ffff:ffff::
 CL	2803:39a0::/ffff:ffff::
 CL	2803:39c0::/ffff:ffff::
+VE	2803:39d0::/ffff:ffff::
 PE	2803:39e0::/ffff:ffff::
 GT	2803:3a00::/ffff:ffff::
 DO	2803:3a10::/ffff:ffff::
@@ -57034,6 +57045,7 @@ VE	2803:b950::/ffff:ffff::
 AR	2803:b960::/ffff:ffff::
 CL	2803:b9a0::/ffff:ffff::
 CO	2803:b9c0::/ffff:ffff::
+PY	2803:b9d0::/ffff:ffff::
 CL	2803:b9e0::/ffff:ffff::
 GT	2803:ba00::/ffff:ffff::
 DO	2803:ba10::/ffff:ffff::
@@ -66018,6 +66030,10 @@ BR	2804:946c::/ffff:ffff::
 BR	2804:9470::/ffff:ffff::
 BR	2804:9474::/ffff:ffff::
 BR	2804:9478::/ffff:ffff::
+BR	2804:947c::/ffff:ffff::
+BR	2804:9480::/ffff:ffff::
+BR	2804:9484::/ffff:ffff::
+BR	2804:9488::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
@@ -66712,6 +66728,8 @@ SN	2001:43f8:1751::/ffff:ffff:ffff::
 KE	2001:43f8:1771::/ffff:ffff:ffff::
 SN	2001:43f8:17a0::/ffff:ffff:ffff::
 ZA	2001:43f8:1800::/ffff:ffff:ff00::
+GH	2001:43f8:1a00::/ffff:ffff:ffff::
+GH	2001:43f8:1a10::/ffff:ffff:ffff::
 ZA	2001:43f8:1ac0::/ffff:ffff:fff0::
 NG	2001:43fc::/ffff:ffff:ffff::
 MW	2001:43fc:800::/ffff:ffff:ffff::
