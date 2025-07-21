@@ -43542,6 +43542,7 @@ BD	2001:df5:e2c0::/ffff:ffff:ffff::
 SG	2001:df5:e300::/ffff:ffff:ffff::
 ID	2001:df5:e340::/ffff:ffff:ffff::
 AU	2001:df5:e380::/ffff:ffff:ffff::
+VN	2001:df5:e3c0::/ffff:ffff:ffff::
 IN	2001:df5:e480::/ffff:ffff:ffff::
 ID	2001:df5:e500::/ffff:ffff:ffff::
 BD	2001:df5:e580::/ffff:ffff:ffff::
