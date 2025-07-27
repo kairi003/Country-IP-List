@@ -1100,6 +1100,9 @@ US	2602:81b:d000::/ffff:ffff:ff00::
 US	2602:81b:e000::/ffff:ffff:ff00::
 US	2602:81b:f000::/ffff:ffff:ff00::
 US	2602:81c::/ffff:ffff:fff0::
+US	2602:f5b7::/ffff:ffff:ff00::
+US	2602:f5b8::/ffff:ffff:ff00::
+US	2602:f5b9::/ffff:ffff:ff00::
 US	2602:f5ba::/ffff:ffff:ff00::
 US	2602:f5bb::/ffff:ffff:f000::
 US	2602:f5bc::/ffff:ffff:ff00::
@@ -48157,6 +48160,7 @@ CN	2402:1c20::/ffff:ffff::
 PK	2402:1c40::/ffff:ffff::
 PH	2402:1c60::/ffff:ffff::
 BD	2402:1c80::/ffff:ffff::
+AF	2402:1ca0::/ffff:ffff::
 JP	2402:1d00::/ffff:ffff::
 BD	2402:1d40::/ffff:ffff::
 ID	2402:1d80::/ffff:ffff::
@@ -53461,9 +53465,11 @@ MX	2001:1225::/ffff:ffff::
 MX	2001:1226::/ffff:ffff::
 MX	2001:1227::/ffff:ffff::
 MX	2001:1228::/ffff:ffff::
+MX	2001:1229::/ffff:ffff::
 MX	2001:122a::/ffff:ffff::
 MX	2001:122b::/ffff:ffff::
 MX	2001:122c::/ffff:ffff::
+MX	2001:122e::/ffff:ffff::
 MX	2001:1230::/ffff:ffff::
 MX	2001:1238::/ffff:ffff::
 MX	2001:1240::/ffff:ffff::
