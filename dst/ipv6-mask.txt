@@ -577,7 +577,6 @@ US	2601:1800::/ffff:fff0::
 US	2601:1900::/ffff:fff0::
 US	2601:1a00::/ffff:ff00::
 US	2601:1b00::/ffff:ff00::
-JP	2601:1d00::/ffff:fff0::
 US	2601:1e00::/ffff:fff0::
 US	2601:1f00::/ffff:fff0::
 US	2601:2000::/ffff:ff00::
@@ -1098,6 +1097,11 @@ US	2602:81b:e000::/ffff:ffff:ff00::
 US	2602:81b:f000::/ffff:ffff:ff00::
 US	2602:81c::/ffff:ffff:fff0::
 US	2602:81c:1000::/ffff:ffff:fff0::
+US	2602:f597::/ffff:ffff:ff00::
+US	2602:f598::/ffff:ffff:ff00::
+US	2602:f599::/ffff:ffff:ff00::
+US	2602:f59a::/ffff:ffff:ff00::
+US	2602:f59b::/ffff:ffff:ff00::
 US	2602:f59c::/ffff:ffff:ff00::
 US	2602:f59d::/ffff:ffff:ff00::
 US	2602:f59e::/ffff:ffff:ff00::
@@ -3743,6 +3747,7 @@ US	2604:1ca0::/ffff:ffff::
 PR	2604:1cc0::/ffff:ffff::
 US	2604:1ce0::/ffff:ffff::
 CA	2604:1d00::/ffff:ffff::
+US	2604:1d20::/ffff:ffff::
 US	2604:1d40::/ffff:ffff::
 US	2604:1d80::/ffff:ffff::
 US	2604:1dc0::/ffff:ffff::
@@ -9338,7 +9343,7 @@ US	2620:ce:6000::/ffff:ffff:ffff::
 US	2620:ce:8000::/ffff:ffff:ffff::
 US	2620:ce:a000::/ffff:ffff:ffff::
 US	2620:ce:c000::/ffff:ffff:ffff::
-US	2620:ce:e000::/ffff:ffff:ffff::
+US	2620:ce:e000::/ffff:ffff:fff0::
 BS	2620:cf:2000::/ffff:ffff:ffff::
 US	2620:cf:4000::/ffff:ffff:ffff::
 US	2620:cf:6000::/ffff:ffff:ffff::
@@ -64970,6 +64975,7 @@ BR	2804:7e50::/ffff:ffff::
 BR	2804:7e54::/ffff:ffff::
 BR	2804:7e58::/ffff:ffff::
 BR	2804:7e5c::/ffff:ffff::
+BR	2804:7e60::/ffff:ffff::
 BR	2804:7e64::/ffff:ffff::
 BR	2804:7e68::/ffff:ffff::
 BR	2804:7e6c::/ffff:ffff::
@@ -66276,6 +66282,8 @@ BR	2804:9540::/ffff:ffff::
 BR	2804:9544::/ffff:ffff::
 BR	2804:9548::/ffff:ffff::
 BR	2804:954c::/ffff:ffff::
+BR	2804:9550::/ffff:ffff::
+BR	2804:9554::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
@@ -66571,7 +66579,6 @@ MX	2806:402::/ffff:ffff::
 MX	2806:403::/ffff:ffff::
 MX	2806:404::/ffff:ffff::
 MX	2806:405::/ffff:ffff::
-MX	2806:406::/ffff:ffff::
 MX	2806:407::/ffff:ffff::
 MX	2806:408::/ffff:ffff::
 MX	2806:409::/ffff:ffff::
@@ -66640,6 +66647,7 @@ MX	2806:44a::/ffff:ffff::
 MX	2806:44b::/ffff:ffff::
 MX	2806:44c::/ffff:ffff::
 MX	2806:44d::/ffff:ffff::
+MX	2806:44e::/ffff:ffff::
 MX	2806:1000::/ffff:ff00::
 ZA	2001:4200::/ffff:ffff::
 ZA	2001:4210::/ffff:ffff::
