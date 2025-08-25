@@ -3775,6 +3775,7 @@ US	2604:1de0::/ffff:ffff::
 US	2604:1e00::/ffff:ffff::
 US	2604:1e20::/ffff:ffff::
 US	2604:1e40::/ffff:ffff::
+US	2604:1e60::/ffff:ffff::
 CA	2604:1e80::/ffff:ffff::
 CA	2604:1ec0::/ffff:ffff:f000::
 US	2604:1f00::/ffff:ffff::
@@ -43788,6 +43789,7 @@ HK	2001:df6:540::/ffff:ffff:ffff::
 JP	2001:df6:580::/ffff:ffff:ffff::
 IN	2001:df6:5c0::/ffff:ffff:ffff::
 AU	2001:df6:600::/ffff:ffff:ffff::
+IN	2001:df6:640::/ffff:ffff:ffff::
 BD	2001:df6:700::/ffff:ffff:ffff::
 SG	2001:df6:780::/ffff:ffff:ffff::
 HK	2001:df6:800::/ffff:ffff:fff0::
