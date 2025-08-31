@@ -1098,6 +1098,8 @@ US	2602:81b:f000::/ffff:ffff:ff00::
 US	2602:81c::/ffff:ffff:fff0::
 US	2602:81c:1000::/ffff:ffff:fff0::
 US	2602:81c:2000::/ffff:ffff:fff0::
+US	2602:f57d::/ffff:ffff:ff00::
+US	2602:f57e::/ffff:ffff:f000::
 US	2602:f57f::/ffff:ffff:f000::
 US	2602:f580::/ffff:ffff:ff00::
 US	2602:f581::/ffff:ffff:f000::
@@ -9471,6 +9473,7 @@ US	2620:dc::/ffff:ffff:ffff::
 US	2620:dc:2000::/ffff:ffff:ffff::
 US	2620:dc:4000::/ffff:ffff:ff00::
 CA	2620:dc:8000::/ffff:ffff:ffff::
+US	2620:dc:a000::/ffff:ffff:ffff::
 US	2620:dc:c000::/ffff:ffff:ffff::
 CA	2620:dd::/ffff:ffff:ffff::
 US	2620:dd:4000::/ffff:ffff:ffff::
@@ -53695,6 +53698,7 @@ MX	2001:1258::/ffff:ffff::
 MX	2001:1260::/ffff:ffff::
 MX	2001:1261::/ffff:ffff::
 MX	2001:1263::/ffff:ffff::
+MX	2001:1268::/ffff:ffff::
 MX	2001:1270::/ffff:ffff::
 MX	2001:1278::/ffff:ffff::
 BR	2001:1280::/ffff:ffff::
@@ -55057,6 +55061,7 @@ BR	2801:81:110::/ffff:ffff:ffff::
 BR	2801:81:120::/ffff:ffff:ffff::
 BR	2801:81:130::/ffff:ffff:ffff::
 BR	2801:81:140::/ffff:ffff:ffff::
+BR	2801:81:150::/ffff:ffff:ffff::
 BR	2801:82::/ffff:ffff::
 BR	2801:84::/ffff:ffff::
 BR	2801:86::/ffff:ffff::
@@ -66390,7 +66395,6 @@ BR	2804:9564::/ffff:ffff::
 BR	2804:9568::/ffff:ffff::
 BR	2804:956c::/ffff:ffff::
 BR	2804:9570::/ffff:ffff::
-BR	2804:9574::/ffff:ffff::
 BR	2804:9578::/ffff:ffff::
 BR	2804:957c::/ffff:ffff::
 MX	2806::/ffff:fff0::
