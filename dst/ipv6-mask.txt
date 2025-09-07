@@ -1098,6 +1098,9 @@ US	2602:81b:f000::/ffff:ffff:ff00::
 US	2602:81c::/ffff:ffff:fff0::
 US	2602:81c:1000::/ffff:ffff:fff0::
 US	2602:81c:2000::/ffff:ffff:fff0::
+US	2602:81c:3000::/ffff:ffff:fff0::
+US	2602:f572::/ffff:ffff:ff00::
+US	2602:f573::/ffff:ffff:ff00::
 US	2602:f574::/ffff:ffff:ff00::
 US	2602:f575::/ffff:ffff:ff00::
 US	2602:f576::/ffff:ffff:ff00::
@@ -3805,6 +3808,7 @@ US	2604:1f60::/ffff:ffff::
 CA	2604:1f80::/ffff:ffff::
 US	2604:1fa0::/ffff:ffff::
 US	2604:1fc0::/ffff:ffff::
+US	2604:1fe0::/ffff:ffff::
 US	2604:2000::/ffff:ffff::
 US	2604:2040::/ffff:ffff::
 US	2604:20c0::/ffff:ffff::
@@ -43898,6 +43902,7 @@ ID	2001:df6:1740::/ffff:ffff:ffff::
 IN	2001:df6:1780::/ffff:ffff:ffff::
 ID	2001:df6:17c0::/ffff:ffff:ffff::
 ID	2001:df6:1800::/ffff:ffff:ffff::
+HK	2001:df6:1840::/ffff:ffff:ffff::
 IN	2001:df6:1880::/ffff:ffff:ffff::
 MY	2001:df6:1900::/ffff:ffff:ffff::
 HK	2001:df6:1980::/ffff:ffff:ffff::
@@ -57476,6 +57481,7 @@ CO	2803:bd60::/ffff:ffff::
 PA	2803:bd80::/ffff:ffff::
 UY	2803:bd90::/ffff:ffff::
 PE	2803:bda0::/ffff:ffff::
+CO	2803:bdd0::/ffff:ffff::
 CL	2803:bde0::/ffff:ffff::
 AR	2803:be00::/ffff:ffff::
 AR	2803:be10::/ffff:ffff::
