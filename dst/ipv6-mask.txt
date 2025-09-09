@@ -1099,6 +1099,8 @@ US	2602:81c::/ffff:ffff:fff0::
 US	2602:81c:1000::/ffff:ffff:fff0::
 US	2602:81c:2000::/ffff:ffff:fff0::
 US	2602:81c:3000::/ffff:ffff:fff0::
+US	2602:f570::/ffff:ffff:ff00::
+US	2602:f571::/ffff:ffff:ff00::
 US	2602:f572::/ffff:ffff:ff00::
 US	2602:f573::/ffff:ffff:ff00::
 US	2602:f574::/ffff:ffff:ff00::
@@ -15600,7 +15602,6 @@ IR	2a02:6040::/ffff:ffff::
 NO	2a02:6060::/ffff:ffff::
 HU	2a02:6080::/ffff:ffff::
 DE	2a02:60a0::/ffff:ffff::
-GB	2a02:60c0::/ffff:ffff::
 FR	2a02:60e0::/ffff:ffff::
 FR	2a02:6100::/ffff:ffff::
 IT	2a02:6120::/ffff:fff8::
@@ -27492,7 +27493,6 @@ AE	2a0e:c480::/ffff:fff8::
 RU	2a0e:c4c0::/ffff:fff8::
 AT	2a0e:c500::/ffff:fff8::
 AE	2a0e:c540::/ffff:fff8::
-RU	2a0e:c580::/ffff:fff8::
 DE	2a0e:c5c0::/ffff:fff8::
 IR	2a0e:c600::/ffff:ffff::
 GB	2a0e:c640::/ffff:fff8::
@@ -33521,7 +33521,6 @@ PL	2001:678:1cc::/ffff:ffff:ffff::
 DE	2001:678:1d0::/ffff:ffff:ffff::
 SE	2001:678:1d4::/ffff:ffff:ffff::
 AT	2001:678:1d8::/ffff:ffff:ffff::
-PL	2001:678:1dc::/ffff:ffff:ffff::
 DE	2001:678:1e0::/ffff:ffff:ffff::
 DE	2001:678:1e4::/ffff:ffff:ffff::
 DE	2001:678:1e8::/ffff:ffff:ffff::
@@ -34751,7 +34750,6 @@ DE	2001:67c:4d0::/ffff:ffff:ffff::
 PL	2001:67c:4d4::/ffff:ffff:ffff::
 SE	2001:67c:4d8::/ffff:ffff:ffff::
 GB	2001:67c:4dc::/ffff:ffff:ffff::
-GB	2001:67c:4e0::/ffff:ffff:ffff::
 SE	2001:67c:4e4::/ffff:ffff:ffff::
 VG	2001:67c:4e8::/ffff:ffff:ffff::
 RU	2001:67c:4ec::/ffff:ffff:ffff::
@@ -37341,6 +37339,7 @@ QA	2001:7f8:163::/ffff:ffff:ffff::
 JP	2001:7f8:164::/ffff:ffff:ffff::
 TM	2001:7f8:165::/ffff:ffff:ffff::
 IQ	2001:7f8:166::/ffff:ffff:ffff::
+ES	2001:7f8:167::/ffff:ffff:ffff::
 PL	2001:7f9::/ffff:ffff:ffff::
 AL	2001:7f9:4::/ffff:ffff:ffff::
 AM	2001:7f9:8::/ffff:ffff:ffff::
@@ -38811,7 +38810,6 @@ JP	2001:df0:bb80::/ffff:ffff:ffff::
 JP	2001:df0:bb81::/ffff:ffff:ffff::
 AU	2001:df0:bbc0::/ffff:ffff:ffff::
 AU	2001:df0:bc00::/ffff:ffff:ffff::
-AU	2001:df0:bc40::/ffff:ffff:ffff::
 BD	2001:df0:bcc0::/ffff:ffff:ffff::
 ID	2001:df0:bd00::/ffff:ffff:ffff::
 IN	2001:df0:bd40::/ffff:ffff:ffff::
@@ -45187,7 +45185,6 @@ ID	2400:4a00::/ffff:ffff::
 IN	2400:4a60::/ffff:ffff::
 KH	2400:4aa0::/ffff:ffff::
 BD	2400:4ac0::/ffff:ffff::
-TW	2400:4ae0::/ffff:ffff::
 AU	2400:4b00::/ffff:ffff::
 ID	2400:4b20::/ffff:ffff::
 IN	2400:4b60::/ffff:ffff::
