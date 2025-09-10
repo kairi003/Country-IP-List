@@ -267,7 +267,6 @@ US	2001:504:105::/ffff:ffff:ffff::
 US	2001:504:106::/ffff:ffff:ffff::
 US	2001:504:107::/ffff:ffff:ffff::
 US	2001:504:108::/ffff:ffff:ffff::
-US	2001:504:109::/ffff:ffff:ffff::
 US	2001:504:110::/ffff:ffff:ffff::
 BL	2001:504:111::/ffff:ffff:ffff::
 CA	2001:504:112::/ffff:ffff:ffff::
@@ -674,7 +673,6 @@ US	2602:2c7::/ffff:ffff:ff00::
 US	2602:2c8::/ffff:ffff:f000::
 US	2602:2c9::/ffff:ffff:f000::
 CA	2602:2ca::/ffff:ffff:ff00::
-US	2602:2cb::/ffff:ffff:f000::
 US	2602:2cc::/ffff:ffff:f000::
 US	2602:2cd::/ffff:ffff:f000::
 US	2602:2ce::/ffff:ffff:f000::
@@ -1064,7 +1062,6 @@ US	2602:819:c000::/ffff:ffff:ff00::
 US	2602:819:e000::/ffff:ffff:fff0::
 US	2602:819:f000::/ffff:ffff:ff00::
 US	2602:81a::/ffff:ffff:ff00::
-US	2602:81a:1000::/ffff:ffff:fff0::
 US	2602:81a:2000::/ffff:ffff:fff0::
 US	2602:81a:3000::/ffff:ffff:fff0::
 US	2602:81a:4000::/ffff:ffff:fff0::
@@ -1099,6 +1096,10 @@ US	2602:81c::/ffff:ffff:fff0::
 US	2602:81c:1000::/ffff:ffff:fff0::
 US	2602:81c:2000::/ffff:ffff:fff0::
 US	2602:81c:3000::/ffff:ffff:fff0::
+US	2602:81c:4000::/ffff:ffff:fff0::
+US	2602:f56d::/ffff:ffff:ff00::
+US	2602:f56e::/ffff:ffff:ff00::
+US	2602:f56f::/ffff:ffff:ff00::
 US	2602:f570::/ffff:ffff:ff00::
 US	2602:f571::/ffff:ffff:ff00::
 US	2602:f572::/ffff:ffff:ff00::
@@ -2590,17 +2591,14 @@ US	2602:fb7e::/ffff:ffff:ff00::
 US	2602:fb80::/ffff:ffff:ff00::
 US	2602:fb81::/ffff:ffff:f000::
 US	2602:fb82::/ffff:ffff:f000::
-US	2602:fb83::/ffff:ffff:f000::
 CA	2602:fb86::/ffff:ffff:f000::
 US	2602:fb87::/ffff:ffff:f000::
 US	2602:fb88::/ffff:ffff:f000::
 US	2602:fb89::/ffff:ffff::
 US	2602:fb8a::/ffff:ffff:ff00::
 US	2602:fb8c::/ffff:ffff:ff00::
-US	2602:fb8d::/ffff:ffff:f000::
 US	2602:fb8e::/ffff:ffff:f000::
 US	2602:fb8f::/ffff:ffff:ff00::
-US	2602:fb90::/ffff:ffff:f000::
 US	2602:fb91::/ffff:ffff:ff00::
 US	2602:fb92::/ffff:ffff:f000::
 US	2602:fb93::/ffff:ffff:f000::
@@ -2804,7 +2802,6 @@ US	2602:fc76::/ffff:ffff:f000::
 US	2602:fc77::/ffff:ffff:f000::
 US	2602:fc78::/ffff:ffff:ff00::
 US	2602:fc7a::/ffff:ffff:f000::
-PR	2602:fc7b::/ffff:ffff:f000::
 US	2602:fc7c::/ffff:ffff:f000::
 US	2602:fc7d::/ffff:ffff:ff00::
 US	2602:fc7e::/ffff:ffff:ff00::
@@ -2818,7 +2815,6 @@ US	2602:fc85::/ffff:ffff:f000::
 JM	2602:fc86::/ffff:ffff:f000::
 US	2602:fc87::/ffff:ffff:f000::
 US	2602:fc88::/ffff:ffff:f000::
-US	2602:fc89::/ffff:ffff:f000::
 CA	2602:fc8a::/ffff:ffff:ff00::
 US	2602:fc8b::/ffff:ffff:f000::
 US	2602:fc8c::/ffff:ffff:f000::
@@ -2838,7 +2834,6 @@ US	2602:fc9b::/ffff:ffff:f000::
 US	2602:fc9c::/ffff:ffff:f000::
 US	2602:fc9d::/ffff:ffff:f000::
 US	2602:fc9e::/ffff:ffff:f000::
-US	2602:fc9f::/ffff:ffff:ff00::
 US	2602:fca0::/ffff:ffff:f000::
 US	2602:fca1::/ffff:ffff:f000::
 CA	2602:fca2::/ffff:ffff:f000::
@@ -3009,7 +3004,6 @@ US	2602:fd58::/ffff:ffff:f000::
 US	2602:fd59::/ffff:ffff:f000::
 CA	2602:fd5a::/ffff:ffff:f000::
 US	2602:fd5b::/ffff:ffff:f000::
-US	2602:fd5c::/ffff:ffff:f000::
 US	2602:fd5d::/ffff:ffff:f000::
 US	2602:fd5e::/ffff:ffff:f000::
 US	2602:fd5f::/ffff:ffff:f000::
@@ -3904,7 +3898,6 @@ US	2604:38c0::/ffff:ffff::
 US	2604:3940::/ffff:ffff::
 US	2604:39c0::/ffff:ffff::
 US	2604:3a00::/ffff:ffff::
-US	2604:3a40::/ffff:ffff::
 CA	2604:3a80::/ffff:ffff::
 US	2604:3ac0::/ffff:ffff::
 CA	2604:3b00::/ffff:ffff::
@@ -4374,7 +4367,6 @@ US	2604:be40::/ffff:ffff::
 US	2604:be80::/ffff:ffff::
 US	2604:bec0::/ffff:ffff::
 US	2604:bf00::/ffff:ffff::
-CA	2604:bf40::/ffff:ffff::
 US	2604:bf80::/ffff:ffff::
 US	2604:bfc0::/ffff:ffff::
 US	2604:c000::/ffff:ffff::
@@ -4806,7 +4798,6 @@ US	2605:3ac0::/ffff:ffff::
 US	2605:3b00::/ffff:ffff:f000::
 CA	2605:3b40::/ffff:ffff::
 US	2605:3b80::/ffff:ffff::
-US	2605:3bc0::/ffff:ffff::
 US	2605:3c00::/ffff:ffff::
 US	2605:3c40::/ffff:ffff::
 US	2605:3c80::/ffff:ffff::
@@ -5608,7 +5599,6 @@ US	2606:1ac0::/ffff:ffff::
 US	2606:1b00::/ffff:ffff::
 US	2606:1b40::/ffff:ffff::
 CA	2606:1b80::/ffff:ffff::
-US	2606:1bc0::/ffff:ffff::
 US	2606:1c00::/ffff:ffff::
 US	2606:1c80::/ffff:ffff::
 US	2606:1cc0::/ffff:ffff::
@@ -6264,7 +6254,6 @@ US	2606:ccc0::/ffff:ffff::
 US	2606:cd00::/ffff:ffff::
 US	2606:cd40::/ffff:ffff::
 US	2606:cd80::/ffff:ffff::
-CA	2606:cdc0::/ffff:ffff::
 US	2606:ce40::/ffff:ffff::
 US	2606:cf00::/ffff:ffff::
 US	2606:cf40::/ffff:ffff::
@@ -6691,7 +6680,6 @@ CA	2607:3f40::/ffff:ffff::
 US	2607:3f80::/ffff:ffff::
 US	2607:3fc0::/ffff:ffff::
 US	2607:4000::/ffff:ffff::
-US	2607:40c0::/ffff:ffff::
 CA	2607:4100::/ffff:ffff::
 US	2607:4140::/ffff:ffff::
 US	2607:4180::/ffff:ffff::
@@ -7071,7 +7059,6 @@ US	2607:a6c0::/ffff:ffff::
 US	2607:a700::/ffff:ffff::
 US	2607:a740::/ffff:ffff::
 US	2607:a780::/ffff:ffff::
-US	2607:a7c0::/ffff:ffff::
 US	2607:a800::/ffff:fff0::
 US	2607:a840::/ffff:ffff::
 US	2607:a8c0::/ffff:ffff::
@@ -7095,7 +7082,6 @@ US	2607:adc0::/ffff:ffff::
 CA	2607:ae00::/ffff:ffff::
 US	2607:ae40::/ffff:ffff::
 US	2607:ae80::/ffff:ffff::
-US	2607:aec0::/ffff:ffff::
 US	2607:af00::/ffff:ffff::
 US	2607:af40::/ffff:ffff::
 US	2607:af80::/ffff:ffff::
@@ -9053,7 +9039,6 @@ US	2620:9c:2000::/ffff:ffff:ffff::
 US	2620:9c:6000::/ffff:ffff:ffff::
 US	2620:9c:8000::/ffff:ffff:ffff::
 US	2620:9c:c000::/ffff:ffff:ffff::
-US	2620:9c:e000::/ffff:ffff:ffff::
 US	2620:9d::/ffff:ffff:ffff::
 US	2620:9d:2000::/ffff:ffff:ffff::
 US	2620:9d:4000::/ffff:ffff:ffff::
@@ -9139,7 +9124,6 @@ US	2620:a8:e000::/ffff:ffff:ffff::
 US	2620:a9::/ffff:ffff:ffff::
 US	2620:a9:2000::/ffff:ffff:ffff::
 US	2620:a9:4000::/ffff:ffff:ffff::
-US	2620:a9:6000::/ffff:ffff:ffff::
 US	2620:a9:8000::/ffff:ffff:fff0::
 US	2620:a9:c080::/ffff:ffff:ffff::
 US	2620:aa::/ffff:ffff:ffff::
@@ -9335,7 +9319,6 @@ US	2620:c6:2000::/ffff:ffff:ffff::
 US	2620:c6:4000::/ffff:ffff:ffff::
 US	2620:c6:6000::/ffff:ffff:ffff::
 US	2620:c6:8000::/ffff:ffff:ffff::
-CA	2620:c6:a000::/ffff:ffff:ffff::
 US	2620:c6:c000::/ffff:ffff:ffff::
 US	2620:c6:e000::/ffff:ffff:ffff::
 US	2620:c7::/ffff:ffff:ffff::
@@ -10196,7 +10179,6 @@ US	2620:128:1000::/ffff:ffff:fff0::
 US	2620:128:2000::/ffff:ffff:ff00::
 US	2620:128:3000::/ffff:ffff:ff00::
 US	2620:128:4000::/ffff:ffff:fff0::
-US	2620:128:5000::/ffff:ffff:ff00::
 US	2620:128:6000::/ffff:ffff:fff0::
 US	2620:128:7000::/ffff:ffff:fff0::
 US	2620:128:8000::/ffff:ffff:fff0::
@@ -10315,7 +10297,6 @@ US	2620:130:5000::/ffff:ffff:fff0::
 US	2620:130:6000::/ffff:ffff:fff0::
 US	2620:130:7000::/ffff:ffff:ff00::
 US	2620:130:8000::/ffff:ffff:fff0::
-US	2620:130:9000::/ffff:ffff:ff00::
 US	2620:130:a000::/ffff:ffff:fff0::
 US	2620:130:e000::/ffff:ffff:fff0::
 US	2620:130:f000::/ffff:ffff:fff0::
@@ -23939,6 +23920,7 @@ GB	2a0b:3740::/ffff:fff8::
 ES	2a0b:3780::/ffff:ffff::
 AT	2a0b:37c0::/ffff:fff8::
 US	2a0b:3800::/ffff:fff8::
+SY	2a0b:3840::/ffff:fff8::
 GB	2a0b:3880::/ffff:ffff::
 FR	2a0b:38c0::/ffff:fff8::
 RU	2a0b:3900::/ffff:fff8::
@@ -27831,7 +27813,6 @@ GB	2a0f:1a80::/ffff:fff8::
 SC	2a0f:1ac0::/ffff:fff8::
 CH	2a0f:1b00::/ffff:fff8::
 MD	2a0f:1b40::/ffff:fff8::
-FI	2a0f:1b80::/ffff:fff8::
 NL	2a0f:1bc0::/ffff:fff8::
 AE	2a0f:1c00::/ffff:fff8::
 ES	2a0f:1c40::/ffff:fff8::
@@ -43904,7 +43885,9 @@ HK	2001:df6:1840::/ffff:ffff:ffff::
 IN	2001:df6:1880::/ffff:ffff:ffff::
 PH	2001:df6:18c0::/ffff:ffff:ffff::
 MY	2001:df6:1900::/ffff:ffff:ffff::
+IN	2001:df6:1940::/ffff:ffff:ffff::
 HK	2001:df6:1980::/ffff:ffff:ffff::
+IN	2001:df6:19c0::/ffff:ffff:ffff::
 VN	2001:df6:1a00::/ffff:ffff:ffff::
 BN	2001:df6:1a80::/ffff:ffff:ffff::
 AU	2001:df6:1b00::/ffff:ffff:ffff::
@@ -48457,8 +48440,12 @@ PK	2402:27e0::/ffff:ffff::
 IN	2402:2800::/ffff:ffff::
 PH	2402:2820::/ffff:ffff::
 JP	2402:2840::/ffff:ffff::
+TW	2402:2860::/ffff:ffff::
 AF	2402:2880::/ffff:ffff::
+TW	2402:28a0::/ffff:ffff::
+TW	2402:28e0::/ffff:ffff::
 ID	2402:2900::/ffff:ffff::
+BD	2402:2920::/ffff:ffff::
 FJ	2402:2940::/ffff:ffff::
 NZ	2402:2980::/ffff:ffff::
 CN	2402:2a00::/ffff:ffff::
@@ -66434,6 +66421,9 @@ BR	2804:9578::/ffff:ffff::
 BR	2804:957c::/ffff:ffff::
 BR	2804:9580::/ffff:ffff::
 BR	2804:9584::/ffff:ffff::
+BR	2804:9588::/ffff:ffff::
+BR	2804:958c::/ffff:ffff::
+BR	2804:9590::/ffff:ffff::
 MX	2806::/ffff:fff0::
 MX	2806:200::/ffff:ffff::
 MX	2806:202::/ffff:ffff::
