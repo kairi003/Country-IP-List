@@ -48591,6 +48591,7 @@ NP	2402:2da0::/ffff:ffff::
 PH	2402:2dc0::/ffff:ffff::
 PH	2402:2de0::/ffff:ffff::
 TW	2402:2e20::/ffff:ffff::
+CN	2402:2e60::/ffff:ffff::
 CN	2402:2e80::/ffff:ffff::
 PK	2402:2ec0::/ffff:ffff::
 AU	2402:2f00::/ffff:ffff::
