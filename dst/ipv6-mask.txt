@@ -1099,6 +1099,8 @@ US	2602:81c:2000::/ffff:ffff:fff0::
 US	2602:81c:3000::/ffff:ffff:fff0::
 US	2602:81c:4000::/ffff:ffff:fff0::
 US	2602:81c:5000::/ffff:ffff:fff0::
+US	2602:f546::/ffff:ffff:ff00::
+US	2602:f547::/ffff:ffff:f000::
 US	2602:f548::/ffff:ffff:ff00::
 US	2602:f549::/ffff:ffff:f000::
 US	2602:f54a::/ffff:ffff:ff00::
@@ -3868,6 +3870,7 @@ US	2604:2260::/ffff:ffff::
 US	2604:2280::/ffff:ffff::
 US	2604:22a0::/ffff:ffff::
 US	2604:22c0::/ffff:ffff::
+US	2604:22e0::/ffff:ffff::
 US	2604:2340::/ffff:ffff::
 US	2604:2380::/ffff:ffff::
 CA	2604:23c0::/ffff:ffff::
@@ -20897,6 +20900,7 @@ DE	2a07:2540::/ffff:fff8::
 IT	2a07:2580::/ffff:fff8::
 GB	2a07:25c0::/ffff:fff8::
 US	2a07:2600::/ffff:fff8::
+CH	2a07:2640::/ffff:fffc::
 DE	2a07:2680::/ffff:fff8::
 BE	2a07:26c0::/ffff:fff8::
 MT	2a07:2740::/ffff:fff8::
@@ -21428,7 +21432,7 @@ IT	2a07:adc0::/ffff:fff8::
 NL	2a07:ae00::/ffff:fff8::
 DK	2a07:ae40::/ffff:fff8::
 NL	2a07:ae80::/ffff:fff8::
-HK	2a07:aec0::/ffff:fff8::
+US	2a07:aec0::/ffff:fff8::
 NL	2a07:af00::/ffff:fff8::
 US	2a07:af40::/ffff:fff8::
 TR	2a07:af80::/ffff:fff8::
@@ -43118,7 +43122,6 @@ IN	2001:df5:3540::/ffff:ffff:ffff::
 IN	2001:df5:3580::/ffff:ffff:ffff::
 IN	2001:df5:35c0::/ffff:ffff:ffff::
 ID	2001:df5:3600::/ffff:ffff:ffff::
-HK	2001:df5:3640::/ffff:ffff:ffff::
 AU	2001:df5:3680::/ffff:ffff:ffff::
 BD	2001:df5:36c0::/ffff:ffff:ffff::
 ID	2001:df5:3700::/ffff:ffff:ffff::
@@ -44021,9 +44024,13 @@ VN	2001:df6:2640::/ffff:ffff:ffff::
 HK	2001:df6:2680::/ffff:ffff:ffff::
 BD	2001:df6:26c0::/ffff:ffff:ffff::
 ID	2001:df6:2700::/ffff:ffff:ffff::
+BD	2001:df6:2740::/ffff:ffff:ffff::
 BD	2001:df6:2780::/ffff:ffff:ffff::
+AU	2001:df6:27c0::/ffff:ffff:ffff::
 IN	2001:df6:2800::/ffff:ffff:ffff::
+NP	2001:df6:2840::/ffff:ffff:ffff::
 VN	2001:df6:2880::/ffff:ffff:ffff::
+ID	2001:df6:28c0::/ffff:ffff:ffff::
 ID	2001:df6:2900::/ffff:ffff:ffff::
 NL	2001:df6:2980::/ffff:ffff:ffff::
 ID	2001:df6:2a00::/ffff:ffff:ffff::
@@ -48593,6 +48600,7 @@ PH	2402:2de0::/ffff:ffff::
 TW	2402:2e20::/ffff:ffff::
 CN	2402:2e60::/ffff:ffff::
 CN	2402:2e80::/ffff:ffff::
+PH	2402:2ea0::/ffff:ffff::
 PK	2402:2ec0::/ffff:ffff::
 AU	2402:2f00::/ffff:ffff::
 CN	2402:2f40::/ffff:ffff::
