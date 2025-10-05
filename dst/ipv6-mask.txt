@@ -1099,6 +1099,9 @@ US	2602:81c:3000::/ffff:ffff:fff0::
 US	2602:81c:4000::/ffff:ffff:fff0::
 US	2602:81c:5000::/ffff:ffff:fff0::
 US	2602:81c:6000::/ffff:ffff:fff0::
+US	2602:81c:7000::/ffff:ffff:ff00::
+US	2602:f530::/ffff:ffff:ff00::
+US	2602:f531::/ffff:ffff:f000::
 US	2602:f532::/ffff:ffff:ff00::
 US	2602:f533::/ffff:ffff:ff00::
 US	2602:f534::/ffff:ffff:ff00::
@@ -9558,6 +9561,7 @@ US	2620:dd:6000::/ffff:ffff:ffff::
 US	2620:dd:8000::/ffff:ffff:ffff::
 US	2620:dd:a000::/ffff:ffff:ffff::
 US	2620:dd:c000::/ffff:ffff:ffff::
+US	2620:dd:e000::/ffff:ffff:ffff::
 US	2620:de::/ffff:ffff:ffff::
 US	2620:de:4000::/ffff:ffff:ffff::
 US	2620:de:8000::/ffff:ffff:ffff::
