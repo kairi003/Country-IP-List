@@ -1655,7 +1655,7 @@ US	2602:f759::/ffff:ffff:ff00::
 US	2602:f75a::/ffff:ffff:f000::
 CA	2602:f75b::/ffff:ffff:f000::
 US	2602:f75c::/ffff:ffff:f000::
-US	2602:f75d::/ffff:ffff:f000::
+JP	2602:f75d::/ffff:ffff:f000::
 US	2602:f75e::/ffff:ffff:f000::
 US	2602:f75f::/ffff:ffff:ff00::
 US	2602:f760::/ffff:ffff:f000::
@@ -44067,6 +44067,7 @@ IN	2001:df6:2bc0::/ffff:ffff:ffff::
 VN	2001:df6:2c00::/ffff:ffff:ffff::
 SG	2001:df6:2c40::/ffff:ffff:ffff::
 JP	2001:df6:2c80::/ffff:ffff:ffff::
+BD	2001:df6:2cc0::/ffff:ffff:ffff::
 TH	2001:df6:2d00::/ffff:ffff:ffff::
 PK	2001:df6:2d80::/ffff:ffff:ffff::
 ID	2001:df6:2e00::/ffff:ffff:ffff::
