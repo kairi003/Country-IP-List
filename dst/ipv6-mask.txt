@@ -1101,6 +1101,8 @@ US	2602:81c:6000::/ffff:ffff:fff0::
 US	2602:81c:7000::/ffff:ffff:ff00::
 US	2602:81c:8000::/ffff:ffff:fff0::
 US	2602:81c:9000::/ffff:ffff:fff0::
+US	2602:81c:a000::/ffff:ffff:fff0::
+US	2602:f521::/ffff:ffff:f000::
 US	2602:f522::/ffff:ffff:ff00::
 US	2602:f523::/ffff:ffff:ff00::
 US	2602:f524::/ffff:ffff:ff00::
@@ -2214,7 +2216,7 @@ US	2602:f98f::/ffff:ffff:ff00::
 US	2602:f990::/ffff:ffff:f000::
 US	2602:f991::/ffff:ffff:f000::
 US	2602:f992::/ffff:ffff:ff00::
-US	2602:f993::/ffff:ffff:ff00::
+US	2602:f993::/ffff:ffff::
 CA	2602:f994::/ffff:ffff:ff00::
 US	2602:f995::/ffff:ffff:f000::
 US	2602:f996::/ffff:ffff:ff00::
@@ -44093,6 +44095,7 @@ PH	2001:df6:3240::/ffff:ffff:ffff::
 IN	2001:df6:3280::/ffff:ffff:ffff::
 MN	2001:df6:32c0::/ffff:ffff:ffff::
 BD	2001:df6:3340::/ffff:ffff:ffff::
+IN	2001:df6:33c0::/ffff:ffff:ffff::
 VN	2001:df6:3400::/ffff:ffff:ffff::
 TH	2001:df6:3480::/ffff:ffff:ffff::
 TH	2001:df6:3481::/ffff:ffff:ffff::
@@ -48662,6 +48665,7 @@ AU	2402:3120::/ffff:ffff::
 CN	2402:3140::/ffff:ffff::
 JP	2402:3160::/ffff:ffff::
 CN	2402:3180::/ffff:ffff::
+IN	2402:31a0::/ffff:ffff::
 CN	2402:31c0::/ffff:ffff::
 AU	2402:3200::/ffff:ffff::
 CN	2402:3240::/ffff:ffff::
@@ -54057,7 +54061,6 @@ PY	2800:3a0::/ffff:ffff::
 CL	2800:3b0::/ffff:ffff::
 GY	2800:3c0::/ffff:ffff::
 US	2800:3d0::/ffff:ffff::
-VE	2800:3e0::/ffff:ffff::
 AR	2800:3f0::/ffff:ffff::
 EC	2800:400::/ffff:ffff::
 BZ	2800:410::/ffff:ffff::
@@ -54558,7 +54561,7 @@ AW	2801:19:5800::/ffff:ffff:ffff::
 CW	2801:19:6000::/ffff:ffff:ffff::
 CO	2801:19:6800::/ffff:ffff:ffff::
 AR	2801:19:7000::/ffff:ffff:ffff::
-DO	2801:19:7800::/ffff:ffff:ffff::
+DO	2801:19:7800::/ffff:ffff:fff0::
 EC	2801:19:8000::/ffff:ffff:ffff::
 AR	2801:19:8800::/ffff:ffff:ffff::
 AR	2801:19:9000::/ffff:ffff:ffff::
@@ -67078,7 +67081,6 @@ ZA	2001:43f8:a0::/ffff:ffff:ffff::
 SL	2001:43f8:b0::/ffff:ffff:ffff::
 KE	2001:43f8:c0::/ffff:ffff:ffff::
 KE	2001:43f8:c1::/ffff:ffff:ffff::
-GH	2001:43f8:d0::/ffff:ffff:ffff::
 TZ	2001:43f8:e0::/ffff:ffff:ffff::
 ZA	2001:43f8:100::/ffff:ffff:ffff::
 MU	2001:43f8:110::/ffff:ffff:ffff::
@@ -67381,6 +67383,7 @@ MU	2001:43fe:6000::/ffff:ffff:ffff::
 CM	2001:43fe:6800::/ffff:ffff:ffff::
 SN	2001:43fe:7000::/ffff:ffff:ffff::
 GH	2001:43fe:8000::/ffff:ffff:ffff::
+ZW	2001:43fe:8800::/ffff:ffff:ffff::
 ZA	2001:43fe:9000::/ffff:ffff:ffff::
 ZA	2001:43fe:a000::/ffff:ffff:ff00::
 TZ	2001:43fe:b000::/ffff:ffff:ffff::
