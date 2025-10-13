@@ -1312,7 +1312,7 @@ US	2602:f5ef::/ffff:ffff:ff00::
 US	2602:f5f0::/ffff:ffff:ff00::
 HK	2602:f5f1::/ffff:ffff:ff00::
 US	2602:f5f2::/ffff:ffff:ff00::
-US	2602:f5f3::/ffff:ffff:ff00::
+TH	2602:f5f3::/ffff:ffff:ff00::
 US	2602:f5f4::/ffff:ffff:ff00::
 US	2602:f5f5::/ffff:ffff:ff00::
 US	2602:f5f6::/ffff:ffff:ff00::
@@ -48667,6 +48667,7 @@ JP	2402:3160::/ffff:ffff::
 CN	2402:3180::/ffff:ffff::
 IN	2402:31a0::/ffff:ffff::
 CN	2402:31c0::/ffff:ffff::
+IN	2402:31e0::/ffff:ffff::
 AU	2402:3200::/ffff:ffff::
 CN	2402:3240::/ffff:ffff::
 BD	2402:3280::/ffff:ffff::
