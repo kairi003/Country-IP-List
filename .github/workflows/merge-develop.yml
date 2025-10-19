@@ -18,7 +18,7 @@ jobs:
     
       - name: Merge
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git merge --strategy-option=theirs origin/develop -m "auto merge"
           git push
